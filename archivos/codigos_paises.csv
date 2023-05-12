@@ -1,0 +1,4082 @@
+,country,country_encod
+0,South Korea,175
+1,China,38
+2,China,38
+3,India,84
+4,India,84
+5,Bangladesh,15
+6,Japan,94
+7,Indonesia,85
+8,China,38
+9,Congo,40
+10,Thailand,187
+11,Pakistan,142
+12,Egypt,53
+13,Brazil,26
+14,Mexico,121
+15,Nigeria,138
+16,India,84
+17,China,38
+18,Russia,154
+19,Japan,94
+20,Philippines,147
+21,United States,199
+22,Turkey,192
+23,Argentina,7
+24,India,84
+25,Pakistan,142
+26,India,84
+27,China,38
+28,United Kingdom,198
+29,China,38
+30,India,84
+31,Iran,86
+32,France,63
+33,Japan,94
+34,Vietnam,204
+35,United States,199
+36,China,38
+37,Peru,146
+38,Brazil,26
+39,China,38
+40,China,38
+41,China,38
+42,China,38
+43,Angola,4
+44,China,38
+45,China,38
+46,United States,199
+47,Vietnam,204
+48,China,38
+49,China,38
+50,India,84
+51,India,84
+52,China,38
+53,China,38
+54,China,38
+55,China,38
+56,China,38
+57,Colombia,39
+58,Malaysia,113
+59,China,38
+60,China,38
+61,China,38
+62,Hong Kong,81
+63,Tanzania,186
+64,China,38
+65,China,38
+66,Chile,37
+67,China,38
+68,China,38
+69,China,38
+70,Saudi Arabia,163
+71,China,38
+72,China,38
+73,China,38
+74,United States,199
+75,China,38
+76,China,38
+77,China,38
+78,Iraq,87
+79,China,38
+80,Spain,176
+81,Sudan,178
+82,China,38
+83,China,38
+84,China,38
+85,China,38
+86,United States,199
+87,Egypt,53
+88,India,84
+89,China,38
+90,China,38
+91,United States,199
+92,Kenya,98
+93,Mexico,121
+94,China,38
+95,United States,199
+96,United States,199
+97,China,38
+98,China,38
+99,China,38
+100,Canada,34
+101,Singapore,168
+102,China,38
+103,United States,199
+104,China,38
+105,Ivory Coast,92
+106,China,38
+107,India,84
+108,Egypt,53
+109,Brazil,26
+110,China,38
+111,China,38
+112,China,38
+113,United States,199
+114,Australia,10
+115,China,38
+116,China,38
+117,Spain,176
+118,China,38
+119,Australia,10
+120,China,38
+121,China,38
+122,China,38
+123,China,38
+124,China,38
+125,South Africa,174
+126,China,38
+127,Morocco,127
+128,Afghanistan,0
+129,United States,199
+130,China,38
+131,Jordan,96
+132,Nigeria,138
+133,China,38
+134,China,38
+135,China,38
+136,Japan,94
+137,China,38
+138,United States,199
+139,Saudi Arabia,163
+140,Germany,69
+141,China,38
+142,China,38
+143,Algeria,2
+144,South Korea,175
+145,China,38
+146,United States,199
+147,Canada,34
+148,China,38
+149,India,84
+150,Pakistan,142
+151,China,38
+152,India,84
+153,United States,199
+154,Brazil,26
+155,Iran,86
+156,China,38
+157,China,38
+158,United States,199
+159,Ethiopia,58
+160,Kuwait,100
+161,South Korea,175
+162,Philippines,147
+163,Yemen,205
+164,Indonesia,85
+165,Indonesia,85
+166,United States,199
+167,Brazil,26
+168,Italy,91
+169,Guatemala,75
+170,United States,199
+171,Ukraine,196
+172,China,38
+173,Taiwan,184
+174,Ecuador,52
+175,Taiwan,184
+176,Bolivia,23
+177,China,38
+178,China,38
+179,China,38
+180,Taiwan,184
+181,China,38
+182,Madagascar,111
+183,China,38
+184,United States,199
+185,Dominican Republic,51
+186,Nigeria,138
+187,China,38
+188,Colombia,39
+189,United Arab Emirates,197
+190,Uzbekistan,201
+191,Colombia,39
+192,Cameroon,33
+193,South Korea,175
+194,Brazil,26
+195,Burkina Faso,30
+196,Cameroon,33
+197,India,84
+198,Australia,10
+199,India,84
+200,Ghana,70
+201,Indonesia,85
+202,Japan,94
+203,Canada,34
+204,Indonesia,85
+205,Sudan,178
+206,Indonesia,85
+207,United States,199
+208,Azerbaijan,12
+209,Cuba,44
+210,Indonesia,85
+211,China,38
+212,China,38
+213,Zimbabwe,207
+214,Pakistan,142
+215,Cambodia,32
+216,Somalia,173
+217,Vietnam,204
+218,United States,199
+219,United States,199
+220,United States,199
+221,India,84
+222,United States,199
+223,Ghana,70
+224,Pakistan,142
+225,China,38
+226,Ecuador,52
+227,Australia,10
+228,India,84
+229,Pakistan,142
+230,Belarus,17
+231,Venezuela,203
+232,Japan,94
+233,China,38
+234,India,84
+235,Mexico,121
+236,Mali,115
+237,China,38
+238,Iran,86
+239,Kazakhstan,97
+240,India,84
+241,Austria,11
+242,United States,199
+243,Syria,183
+244,Malawi,112
+245,Taiwan,184
+246,China,38
+247,Brazil,26
+248,Pakistan,142
+249,Romania,153
+250,Germany,69
+251,United States,199
+252,Mexico,121
+253,Brazil,26
+254,India,84
+255,Philippines,147
+256,Congo,40
+257,Kenya,98
+258,Syria,183
+259,Belgium,18
+260,Poland,148
+261,Zambia,206
+262,China,38
+263,United States,199
+264,United States,199
+265,Hungary,82
+266,United States,199
+267,India,84
+268,United States,199
+269,Saudi Arabia,163
+270,Brazil,26
+271,United States,199
+272,Uganda,195
+273,Guinea,76
+274,Philippines,147
+275,Iraq,87
+276,Pakistan,142
+277,United States,199
+278,Indonesia,85
+279,Russia,154
+280,India,84
+281,India,84
+282,United States,199
+283,India,84
+284,United States,199
+285,Mexico,121
+286,India,84
+287,Iran,86
+288,India,84
+289,India,84
+290,Iran,86
+291,United States,199
+292,Iran,86
+293,Mexico,121
+294,United States,199
+295,Japan,94
+296,Venezuela,203
+297,Nigeria,138
+298,Indonesia,85
+299,Japan,94
+300,India,84
+301,South Korea,175
+302,Brazil,26
+303,Germany,69
+304,Russia,154
+305,Japan,94
+306,Venezuela,203
+307,South Korea,175
+308,Nigeria,138
+309,United States,199
+310,Ukraine,196
+311,China,38
+312,United Arab Emirates,197
+313,Mexico,121
+314,Oman,141
+315,United States,199
+316,India,84
+317,Mongolia,124
+318,Brazil,26
+319,Bangladesh,15
+320,India,84
+321,United States,199
+322,Serbia,165
+323,India,84
+324,Italy,91
+325,Argentina,7
+326,New Zealand,135
+327,Indonesia,85
+328,Czech Republic,47
+329,India,84
+330,Uruguay,200
+331,Brazil,26
+332,Iraq,87
+333,Japan,94
+334,Australia,10
+335,Mexico,121
+336,Colombia,39
+337,India,84
+338,Bulgaria,29
+339,United Arab Emirates,197
+340,Russia,154
+341,China,38
+342,Nigeria,138
+343,Russia,154
+344,South Africa,174
+345,India,84
+346,Canada,34
+347,China,38
+348,South Korea,175
+349,Russia,154
+350,Vietnam,204
+351,Myanmar,129
+352,India,84
+353,United States,199
+354,Kenya,98
+355,Mozambique,128
+356,Brazil,26
+357,Argentina,7
+358,Qatar,151
+359,Iran,86
+360,Saudi Arabia,163
+361,United States,199
+362,Japan,94
+363,Russia,154
+364,India,84
+365,Russia,154
+366,South Korea,175
+367,Iran,86
+368,Brazil,26
+369,Senegal,164
+370,Rwanda,155
+371,Indonesia,85
+372,China,38
+373,India,84
+374,United Kingdom,198
+375,Mexico,121
+376,Libya,107
+377,Honduras,80
+378,India,84
+379,Russia,154
+380,Georgia,68
+381,India,84
+382,Morocco,127
+383,Vietnam,204
+384,Denmark,48
+385,India,84
+386,Russia,154
+387,United States,199
+388,Germany,69
+389,Chad,36
+390,Armenia,8
+391,China,38
+392,United States,199
+393,United States,199
+394,India,84
+395,United States,199
+396,Brazil,26
+397,Canada,34
+398,South Africa,174
+399,Kyrgyzstan,101
+400,Kazakhstan,97
+401,Mauritania,119
+402,Japan,94
+403,Tunisia,191
+404,Honduras,80
+405,Nepal,132
+406,India,84
+407,Russia,154
+408,Russia,154
+409,Mexico,121
+410,Venezuela,203
+411,United States,199
+412,Colombia,39
+413,India,84
+414,India,84
+415,South Korea,175
+416,Nicaragua,136
+417,Indonesia,85
+418,Mozambique,128
+419,Ukraine,196
+420,Egypt,53
+421,Kazakhstan,97
+422,Niger,137
+423,India,84
+424,Brazil,26
+425,Liberia,106
+426,Pakistan,142
+427,United States,199
+428,United States,199
+429,India,84
+430,Haiti,79
+431,Mexico,121
+432,Russia,154
+433,Pakistan,142
+434,Canada,34
+435,Peru,146
+436,Nigeria,138
+437,Sweden,181
+438,Israel,90
+439,Laos,102
+440,India,84
+441,Croatia,43
+442,Sri Lanka,177
+443,Malawi,112
+444,Tajikistan,185
+445,South Africa,174
+446,Netherlands,133
+447,Eritrea,56
+448,Sierra Leone,167
+449,Canada,34
+450,Togo,189
+451,Gabon,66
+452,Finland,62
+453,Panama,143
+454,Greece,72
+455,Norway,140
+456,Benin,20
+457,North Macedonia,139
+458,Moldova,122
+459,Canada,34
+460,Burundi,31
+461,Morocco,127
+462,Latvia,103
+463,Jamaica,93
+464,Lithuania,109
+465,Ireland,88
+466,Estonia,57
+467,Paraguay,145
+468,Portugal,149
+469,Lebanon,104
+470,Djibouti,49
+471,Albania,1
+472,Canada,34
+473,Slovakia,170
+474,Canada,34
+475,Australia,10
+476,New Zealand,135
+477,Canada,34
+478,Guinea-Bissau,77
+479,Lesotho,105
+480,Namibia,130
+481,Cyprus,46
+482,Tanzania,186
+483,Bahamas,13
+484,Slovenia,171
+485,South Africa,174
+486,Bosnia And Herzegovina,24
+487,South Africa,174
+488,Timor-Leste,188
+489,Bolivia,23
+490,Maldives,114
+491,Suriname,179
+492,Botswana,25
+493,Gibraltar,71
+494,Papua New Guinea,144
+495,Guyana,78
+496,Montenegro,125
+497,Martinique,118
+498,Bahrain,14
+499,Curacao,45
+500,Switzerland,182
+501,Reunion,152
+502,Equatorial Guinea,55
+503,French Polynesia,65
+504,Luxembourg,110
+505,Barbados,16
+506,Iceland,83
+507,Fiji,61
+508,New Caledonia,134
+509,Turkey,192
+510,Cape Verde,35
+511,Sri Lanka,177
+512,Solomon Islands,172
+513,Monaco,123
+514,Bhutan,22
+515,Swaziland,180
+516,French Guiana,64
+517,Sao Tome And Principe,162
+518,Saint Lucia,158
+519,Vanuatu,202
+520,Bermuda,21
+521,Brunei,28
+522,Isle Of Man,89
+523,Aruba,9
+524,Samoa,160
+525,Trinidad And Tobago,190
+526,Jersey,95
+527,Gambia,67
+528,Greenland,73
+529,Turkmenistan,193
+530,Marshall Islands,117
+531,Belize,19
+532,Saint Kitts And Nevis,157
+533,Saint Vincent And The Grenadines,159
+534,Seychelles,166
+535,Malta,116
+536,Faroe Islands,60
+537,Antigua And Barbuda,6
+538,Andorra,3
+539,Dominica,50
+540,Turks And Caicos Islands,194
+541,Liechtenstein,108
+542,Cook Islands,41
+543,San Marino,161
+544,Montserrat,126
+545,Kosovo (Disputed Territory),99
+546,Falkland Islands,59
+547,Saint Helena,156
+548,Sint Maarten,169
+549,Sint Maarten,169
+550,Nauru,131
+551,British Virgin Islands,27
+552,Anguilla,5
+553,India,84
+554,Brazil,26
+555,Italy,91
+556,Japan,94
+557,Ukraine,196
+558,India,84
+559,Iraq,87
+560,Philippines,147
+561,United States,199
+562,Mexico,121
+563,Morocco,127
+564,Japan,94
+565,Philippines,147
+566,South Korea,175
+567,Mexico,121
+568,Iran,86
+569,Morocco,127
+570,India,84
+571,Peru,146
+572,United States,199
+573,Japan,94
+574,Ukraine,196
+575,Mexico,121
+576,United States,199
+577,United States,199
+578,United States,199
+579,Mexico,121
+580,India,84
+581,South Korea,175
+582,Brazil,26
+583,Mexico,121
+584,Saudi Arabia,163
+585,United States,199
+586,Russia,154
+587,Mexico,121
+588,Italy,91
+589,Philippines,147
+590,Malaysia,113
+591,India,84
+592,Philippines,147
+593,Mexico,121
+594,France,63
+595,Indonesia,85
+596,Iraq,87
+597,Malaysia,113
+598,Mexico,121
+599,Nigeria,138
+600,Russia,154
+601,United States,199
+602,Indonesia,85
+603,Nigeria,138
+604,Nigeria,138
+605,Iraq,87
+606,United States,199
+607,Brazil,26
+608,Philippines,147
+609,United States,199
+610,India,84
+611,South Korea,175
+612,Nigeria,138
+613,Malaysia,113
+614,Mexico,121
+615,United States,199
+616,Brazil,26
+617,Mexico,121
+618,United Kingdom,198
+619,Spain,176
+620,Brazil,26
+621,Brazil,26
+622,Japan,94
+623,Japan,94
+624,Germany,69
+625,India,84
+626,Syria,183
+627,Mexico,121
+628,United States,199
+629,United States,199
+630,Pakistan,142
+631,Nigeria,138
+632,India,84
+633,South Africa,174
+634,India,84
+635,Indonesia,85
+636,Taiwan,184
+637,Colombia,39
+638,Venezuela,203
+639,Philippines,147
+640,Ukraine,196
+641,Russia,154
+642,Ukraine,196
+643,Japan,94
+644,Nigeria,138
+645,Iran,86
+646,United States,199
+647,Canada,34
+648,Philippines,147
+649,United States,199
+650,Mexico,121
+651,United States,199
+652,Iraq,87
+653,Japan,94
+654,Japan,94
+655,Colombia,39
+656,United States,199
+657,United States,199
+658,Philippines,147
+659,India,84
+660,Brazil,26
+661,Brazil,26
+662,India,84
+663,Philippines,147
+664,India,84
+665,India,84
+666,Syria,183
+667,Indonesia,85
+668,Philippines,147
+669,Philippines,147
+670,Canada,34
+671,Poland,148
+672,Spain,176
+673,Russia,154
+674,Brazil,26
+675,United States,199
+676,India,84
+677,Japan,94
+678,Iraq,87
+679,Italy,91
+680,Indonesia,85
+681,Iran,86
+682,United States,199
+683,Iraq,87
+684,Mexico,121
+685,Mexico,121
+686,India,84
+687,United States,199
+688,Mexico,121
+689,Brazil,26
+690,Zimbabwe,207
+691,Saudi Arabia,163
+692,United States,199
+693,India,84
+694,Mexico,121
+695,Philippines,147
+696,Pakistan,142
+697,Pakistan,142
+698,Ivory Coast,92
+699,Vietnam,204
+700,South Korea,175
+701,Germany,69
+702,Brazil,26
+703,Brazil,26
+704,Russia,154
+705,Lebanon,104
+706,India,84
+707,Poland,148
+708,South Korea,175
+709,Malaysia,113
+710,Bolivia,23
+711,Netherlands,133
+712,Germany,69
+713,Australia,10
+714,Yemen,205
+715,United States,199
+716,United States,199
+717,Brazil,26
+718,Philippines,147
+719,Russia,154
+720,Libya,107
+721,India,84
+722,United Kingdom,198
+723,Ukraine,196
+724,United States,199
+725,Uzbekistan,201
+726,Russia,154
+727,Nigeria,138
+728,India,84
+729,Russia,154
+730,Indonesia,85
+731,Philippines,147
+732,Russia,154
+733,Russia,154
+734,Malaysia,113
+735,Brazil,26
+736,China,38
+737,United States,199
+738,Russia,154
+739,Argentina,7
+740,Sweden,181
+741,Philippines,147
+742,Indonesia,85
+743,Indonesia,85
+744,India,84
+745,Brazil,26
+746,Germany,69
+747,South Africa,174
+748,Mexico,121
+749,Japan,94
+750,Japan,94
+751,Canada,34
+752,India,84
+753,Colombia,39
+754,Japan,94
+755,Germany,69
+756,Argentina,7
+757,Russia,154
+758,United States,199
+759,United States,199
+760,Colombia,39
+761,United States,199
+762,Mexico,121
+763,Germany,69
+764,Italy,91
+765,United States,199
+766,Malaysia,113
+767,Brazil,26
+768,United States,199
+769,Spain,176
+770,Chile,37
+771,Russia,154
+772,India,84
+773,United Kingdom,198
+774,Germany,69
+775,Japan,94
+776,United States,199
+777,Jordan,96
+778,United States,199
+779,Mexico,121
+780,India,84
+781,United States,199
+782,United States,199
+783,Russia,154
+784,India,84
+785,Germany,69
+786,India,84
+787,Indonesia,85
+788,Russia,154
+789,United Kingdom,198
+790,India,84
+791,India,84
+792,Afghanistan,0
+793,Brazil,26
+794,Iran,86
+795,Russia,154
+796,Peru,146
+797,Brazil,26
+798,Mexico,121
+799,Saudi Arabia,163
+800,Philippines,147
+801,Uzbekistan,201
+802,Germany,69
+803,Colombia,39
+804,India,84
+805,Poland,148
+806,Philippines,147
+807,Belgium,18
+808,Russia,154
+809,Colombia,39
+810,France,63
+811,Iran,86
+812,Russia,154
+813,Russia,154
+814,Iran,86
+815,India,84
+816,India,84
+817,Zambia,206
+818,Japan,94
+819,Colombia,39
+820,Mexico,121
+821,United Kingdom,198
+822,Russia,154
+823,Egypt,53
+824,Iran,86
+825,United States,199
+826,South Korea,175
+827,United Kingdom,198
+828,Morocco,127
+829,Germany,69
+830,Canada,34
+831,Japan,94
+832,Egypt,53
+833,India,84
+834,Colombia,39
+835,Brazil,26
+836,Venezuela,203
+837,India,84
+838,Russia,154
+839,Iraq,87
+840,Honduras,80
+841,Japan,94
+842,United States,199
+843,Philippines,147
+844,India,84
+845,Japan,94
+846,Philippines,147
+847,Brazil,26
+848,United States,199
+849,Russia,154
+850,Pakistan,142
+851,Morocco,127
+852,Ukraine,196
+853,Peru,146
+854,Malaysia,113
+855,Mexico,121
+856,Germany,69
+857,Japan,94
+858,Malaysia,113
+859,Vietnam,204
+860,France,63
+861,India,84
+862,Pakistan,142
+863,Mexico,121
+864,United Arab Emirates,197
+865,United States,199
+866,United Kingdom,198
+867,Russia,154
+868,United States,199
+869,United States,199
+870,Russia,154
+871,Brazil,26
+872,United States,199
+873,India,84
+874,India,84
+875,Jordan,96
+876,Brazil,26
+877,Russia,154
+878,Bangladesh,15
+879,United States,199
+880,Japan,94
+881,Pakistan,142
+882,United States,199
+883,Argentina,7
+884,Pakistan,142
+885,United Kingdom,198
+886,United States,199
+887,Philippines,147
+888,Peru,146
+889,Philippines,147
+890,Philippines,147
+891,Saudi Arabia,163
+892,Poland,148
+893,Argentina,7
+894,Iraq,87
+895,Philippines,147
+896,Spain,176
+897,Indonesia,85
+898,Philippines,147
+899,Japan,94
+900,United States,199
+901,Nigeria,138
+902,India,84
+903,United States,199
+904,Japan,94
+905,Australia,10
+906,Malaysia,113
+907,South Korea,175
+908,Japan,94
+909,Israel,90
+910,United States,199
+911,India,84
+912,Philippines,147
+913,Egypt,53
+914,Malaysia,113
+915,United States,199
+916,Russia,154
+917,Russia,154
+918,Bangladesh,15
+919,Ukraine,196
+920,Mexico,121
+921,United States,199
+922,Taiwan,184
+923,Venezuela,203
+924,Nigeria,138
+925,Algeria,2
+926,United States,199
+927,Brazil,26
+928,Switzerland,182
+929,United States,199
+930,Colombia,39
+931,Brazil,26
+932,Indonesia,85
+933,Japan,94
+934,India,84
+935,Brazil,26
+936,South Korea,175
+937,United States,199
+938,Russia,154
+939,Peru,146
+940,Iran,86
+941,Mexico,121
+942,Russia,154
+943,South Africa,174
+944,Morocco,127
+945,United States,199
+946,Morocco,127
+947,Brazil,26
+948,Nigeria,138
+949,Canada,34
+950,India,84
+951,South Korea,175
+952,Brazil,26
+953,Iran,86
+954,Japan,94
+955,United States,199
+956,Russia,154
+957,Turkey,192
+958,Malaysia,113
+959,Japan,94
+960,Russia,154
+961,United States,199
+962,United States,199
+963,Philippines,147
+964,Tanzania,186
+965,United States,199
+966,Pakistan,142
+967,Indonesia,85
+968,Kenya,98
+969,Brazil,26
+970,Japan,94
+971,Indonesia,85
+972,United States,199
+973,Japan,94
+974,India,84
+975,Russia,154
+976,United States,199
+977,Poland,148
+978,Russia,154
+979,Russia,154
+980,Egypt,53
+981,Venezuela,203
+982,Brazil,26
+983,Brazil,26
+984,Iran,86
+985,Japan,94
+986,Japan,94
+987,Brazil,26
+988,Brazil,26
+989,Argentina,7
+990,United States,199
+991,Japan,94
+992,United States,199
+993,Pakistan,142
+994,United States,199
+995,United States,199
+996,Japan,94
+997,Philippines,147
+998,Japan,94
+999,Vietnam,204
+1000,Russia,154
+1001,Brazil,26
+1002,United States,199
+1003,Iraq,87
+1004,Brazil,26
+1005,Pakistan,142
+1006,Italy,91
+1007,United States,199
+1008,China,38
+1009,India,84
+1010,Italy,91
+1011,New Zealand,135
+1012,Morocco,127
+1013,Turkey,192
+1014,Kazakhstan,97
+1015,Czech Republic,47
+1016,United States,199
+1017,United States,199
+1018,United States,199
+1019,Philippines,147
+1020,Japan,94
+1021,United States,199
+1022,Mexico,121
+1023,Canada,34
+1024,Serbia,165
+1025,United States,199
+1026,United States,199
+1027,Peru,146
+1028,New Zealand,135
+1029,Ukraine,196
+1030,India,84
+1031,India,84
+1032,Philippines,147
+1033,Philippines,147
+1034,Indonesia,85
+1035,Colombia,39
+1036,Philippines,147
+1037,Taiwan,184
+1038,Japan,94
+1039,Bulgaria,29
+1040,Germany,69
+1041,Iraq,87
+1042,Saudi Arabia,163
+1043,Brazil,26
+1044,Japan,94
+1045,Japan,94
+1046,United Kingdom,198
+1047,Nepal,132
+1048,Brazil,26
+1049,Brazil,26
+1050,Russia,154
+1051,Belarus,17
+1052,Malaysia,113
+1053,Haiti,79
+1054,Russia,154
+1055,Kazakhstan,97
+1056,Japan,94
+1057,Vietnam,204
+1058,Yemen,205
+1059,Spain,176
+1060,Turkey,192
+1061,Germany,69
+1062,Russia,154
+1063,Japan,94
+1064,Pakistan,142
+1065,Philippines,147
+1066,Kazakhstan,97
+1067,Turkey,192
+1068,Argentina,7
+1069,Colombia,39
+1070,United States,199
+1071,Russia,154
+1072,Venezuela,203
+1073,United States,199
+1074,Bulgaria,29
+1075,Poland,148
+1076,Brazil,26
+1077,Kazakhstan,97
+1078,Mexico,121
+1079,United States,199
+1080,Netherlands,133
+1081,France,63
+1082,Chile,37
+1083,Brazil,26
+1084,Zimbabwe,207
+1085,India,84
+1086,United States,199
+1087,Japan,94
+1088,Azerbaijan,12
+1089,United States,199
+1090,Japan,94
+1091,Brazil,26
+1092,Poland,148
+1093,Belarus,17
+1094,South Africa,174
+1095,United States,199
+1096,Russia,154
+1097,South Africa,174
+1098,India,84
+1099,Spain,176
+1100,South Korea,175
+1101,Mexico,121
+1102,United Kingdom,198
+1103,Brazil,26
+1104,Germany,69
+1105,Ecuador,52
+1106,Germany,69
+1107,Chile,37
+1108,Mexico,121
+1109,Algeria,2
+1110,Mexico,121
+1111,United States,199
+1112,Greece,72
+1113,United States,199
+1114,Japan,94
+1115,United States,199
+1116,Russia,154
+1117,Iraq,87
+1118,Japan,94
+1119,Kenya,98
+1120,Turkey,192
+1121,South Korea,175
+1122,Canada,34
+1123,Japan,94
+1124,India,84
+1125,Philippines,147
+1126,Vietnam,204
+1127,South Africa,174
+1128,Brazil,26
+1129,Russia,154
+1130,India,84
+1131,Italy,91
+1132,Malaysia,113
+1133,United States,199
+1134,Iraq,87
+1135,Japan,94
+1136,Philippines,147
+1137,Brazil,26
+1138,Nigeria,138
+1139,Brazil,26
+1140,Brazil,26
+1141,Mexico,121
+1142,Brazil,26
+1143,Romania,153
+1144,United States,199
+1145,Ethiopia,58
+1146,United States,199
+1147,Japan,94
+1148,Romania,153
+1149,United States,199
+1150,Morocco,127
+1151,Paraguay,145
+1152,United States,199
+1153,Spain,176
+1154,Russia,154
+1155,Iraq,87
+1156,United States,199
+1157,Nigeria,138
+1158,Ukraine,196
+1159,France,63
+1160,Germany,69
+1161,Mexico,121
+1162,Kazakhstan,97
+1163,United States,199
+1164,Indonesia,85
+1165,Russia,154
+1166,Russia,154
+1167,Egypt,53
+1168,United States,199
+1169,Mexico,121
+1170,Germany,69
+1171,India,84
+1172,United States,199
+1173,South Africa,174
+1174,Germany,69
+1175,Italy,91
+1176,Iran,86
+1177,India,84
+1178,Brazil,26
+1179,Russia,154
+1180,Russia,154
+1181,Canada,34
+1182,Canada,34
+1183,India,84
+1184,Venezuela,203
+1185,Philippines,147
+1186,Mauritius,120
+1187,Russia,154
+1188,Russia,154
+1189,Mexico,121
+1190,Portugal,149
+1191,Japan,94
+1192,United States,199
+1193,Colombia,39
+1194,Brazil,26
+1195,Chile,37
+1196,United States,199
+1197,Pakistan,142
+1198,Poland,148
+1199,Brazil,26
+1200,Mexico,121
+1201,Colombia,39
+1202,Mexico,121
+1203,China,38
+1204,Russia,154
+1205,Venezuela,203
+1206,Spain,176
+1207,Mexico,121
+1208,Argentina,7
+1209,Turkey,192
+1210,United Kingdom,198
+1211,Saudi Arabia,163
+1212,Brazil,26
+1213,Saudi Arabia,163
+1214,Germany,69
+1215,Spain,176
+1216,Turkey,192
+1217,France,63
+1218,Mexico,121
+1219,Bangladesh,15
+1220,Ukraine,196
+1221,Philippines,147
+1222,United States,199
+1223,Chile,37
+1224,Brazil,26
+1225,India,84
+1226,India,84
+1227,Egypt,53
+1228,Romania,153
+1229,Romania,153
+1230,United Kingdom,198
+1231,Russia,154
+1232,Senegal,164
+1233,Austria,11
+1234,Russia,154
+1235,Ukraine,196
+1236,Algeria,2
+1237,Turkey,192
+1238,Cameroon,33
+1239,United States,199
+1240,Argentina,7
+1241,United Kingdom,198
+1242,Lithuania,109
+1243,United States,199
+1244,Turkey,192
+1245,Paraguay,145
+1246,France,63
+1247,United States,199
+1248,Japan,94
+1249,Algeria,2
+1250,Kazakhstan,97
+1251,United States,199
+1252,United States,199
+1253,India,84
+1254,Colombia,39
+1255,United Kingdom,198
+1256,Venezuela,203
+1257,Czech Republic,47
+1258,Venezuela,203
+1259,Israel,90
+1260,Romania,153
+1261,United States,199
+1262,Philippines,147
+1263,India,84
+1264,Peru,146
+1265,Brazil,26
+1266,Venezuela,203
+1267,Venezuela,203
+1268,United States,199
+1269,Chile,37
+1270,Russia,154
+1271,United States,199
+1272,United States,199
+1273,Peru,146
+1274,South Korea,175
+1275,Germany,69
+1276,Kyrgyzstan,101
+1277,Philippines,147
+1278,Indonesia,85
+1279,Russia,154
+1280,United Kingdom,198
+1281,Uzbekistan,201
+1282,United States,199
+1283,Ukraine,196
+1284,Russia,154
+1285,India,84
+1286,Tunisia,191
+1287,Poland,148
+1288,Brazil,26
+1289,United Kingdom,198
+1290,United States,199
+1291,Canada,34
+1292,Canada,34
+1293,Ukraine,196
+1294,Ethiopia,58
+1295,Sweden,181
+1296,United States,199
+1297,United States,199
+1298,Romania,153
+1299,United States,199
+1300,Brazil,26
+1301,Japan,94
+1302,United Kingdom,198
+1303,Kazakhstan,97
+1304,Finland,62
+1305,Spain,176
+1306,Bangladesh,15
+1307,Russia,154
+1308,United States,199
+1309,Cameroon,33
+1310,Colombia,39
+1311,Russia,154
+1312,Japan,94
+1313,Philippines,147
+1314,Russia,154
+1315,Ukraine,196
+1316,United States,199
+1317,Ukraine,196
+1318,Egypt,53
+1319,Ukraine,196
+1320,India,84
+1321,Mexico,121
+1322,Saudi Arabia,163
+1323,United States,199
+1324,India,84
+1325,United Kingdom,198
+1326,United States,199
+1327,Brazil,26
+1328,United States,199
+1329,Brazil,26
+1330,Algeria,2
+1331,Belgium,18
+1332,Iran,86
+1333,South Korea,175
+1334,Pakistan,142
+1335,Egypt,53
+1336,Australia,10
+1337,France,63
+1338,Brazil,26
+1339,United States,199
+1340,Philippines,147
+1341,Italy,91
+1342,United States,199
+1343,Thailand,187
+1344,United States,199
+1345,Germany,69
+1346,Mexico,121
+1347,United Kingdom,198
+1348,Italy,91
+1349,Germany,69
+1350,United States,199
+1351,United States,199
+1352,United Kingdom,198
+1353,Norway,140
+1354,United States,199
+1355,Libya,107
+1356,Brazil,26
+1357,United States,199
+1358,United States,199
+1359,Nigeria,138
+1360,Madagascar,111
+1361,United States,199
+1362,Brazil,26
+1363,United Kingdom,198
+1364,United States,199
+1365,Taiwan,184
+1366,Malaysia,113
+1367,United States,199
+1368,Turkey,192
+1369,Spain,176
+1370,Israel,90
+1371,Philippines,147
+1372,United States,199
+1373,Congo,40
+1374,Russia,154
+1375,Germany,69
+1376,Spain,176
+1377,India,84
+1378,Romania,153
+1379,India,84
+1380,United Kingdom,198
+1381,Venezuela,203
+1382,Germany,69
+1383,Egypt,53
+1384,Brazil,26
+1385,Iran,86
+1386,Russia,154
+1387,Poland,148
+1388,Ukraine,196
+1389,Libya,107
+1390,United Kingdom,198
+1391,Germany,69
+1392,Malaysia,113
+1393,Saudi Arabia,163
+1394,Pakistan,142
+1395,Canada,34
+1396,Argentina,7
+1397,Cuba,44
+1398,Russia,154
+1399,United Kingdom,198
+1400,Germany,69
+1401,Bangladesh,15
+1402,Nepal,132
+1403,Russia,154
+1404,United States,199
+1405,Portugal,149
+1406,United States,199
+1407,Israel,90
+1408,United States,199
+1409,United States,199
+1410,Cyprus,46
+1411,Brazil,26
+1412,Denmark,48
+1413,United States,199
+1414,Bangladesh,15
+1415,Mexico,121
+1416,France,63
+1417,United States,199
+1418,United States,199
+1419,Brazil,26
+1420,Germany,69
+1421,Slovakia,170
+1422,Ukraine,196
+1423,Indonesia,85
+1424,Oman,141
+1425,Germany,69
+1426,Iran,86
+1427,United States,199
+1428,Russia,154
+1429,United States,199
+1430,Russia,154
+1431,South Africa,174
+1432,Malaysia,113
+1433,Spain,176
+1434,Iran,86
+1435,India,84
+1436,United States,199
+1437,Spain,176
+1438,Netherlands,133
+1439,United States,199
+1440,Canada,34
+1441,Italy,91
+1442,Pakistan,142
+1443,Brazil,26
+1444,Spain,176
+1445,United States,199
+1446,Philippines,147
+1447,Chile,37
+1448,Germany,69
+1449,Brazil,26
+1450,Russia,154
+1451,Mexico,121
+1452,Brazil,26
+1453,Colombia,39
+1454,Philippines,147
+1455,United States,199
+1456,Mexico,121
+1457,India,84
+1458,Brazil,26
+1459,Russia,154
+1460,Ukraine,196
+1461,Germany,69
+1462,Lebanon,104
+1463,Brazil,26
+1464,Tunisia,191
+1465,India,84
+1466,United States,199
+1467,Brazil,26
+1468,Guatemala,75
+1469,Mexico,121
+1470,Finland,62
+1471,Brazil,26
+1472,India,84
+1473,Israel,90
+1474,Iran,86
+1475,South Africa,174
+1476,Turkey,192
+1477,Turkey,192
+1478,Russia,154
+1479,Russia,154
+1480,Poland,148
+1481,Australia,10
+1482,United Kingdom,198
+1483,France,63
+1484,Brazil,26
+1485,South Africa,174
+1486,Ukraine,196
+1487,United States,199
+1488,United States,199
+1489,Spain,176
+1490,Ukraine,196
+1491,Egypt,53
+1492,Poland,148
+1493,Germany,69
+1494,Saudi Arabia,163
+1495,Ecuador,52
+1496,Netherlands,133
+1497,Ukraine,196
+1498,Mexico,121
+1499,Spain,176
+1500,Iraq,87
+1501,Israel,90
+1502,India,84
+1503,Chile,37
+1504,United States,199
+1505,United States,199
+1506,United Kingdom,198
+1507,Malaysia,113
+1508,United States,199
+1509,Kazakhstan,97
+1510,Finland,62
+1511,Germany,69
+1512,Spain,176
+1513,Kazakhstan,97
+1514,Switzerland,182
+1515,United States,199
+1516,United States,199
+1517,Canada,34
+1518,United States,199
+1519,United States,199
+1520,United Kingdom,198
+1521,United States,199
+1522,India,84
+1523,Morocco,127
+1524,Italy,91
+1525,Germany,69
+1526,Romania,153
+1527,Germany,69
+1528,Spain,176
+1529,Venezuela,203
+1530,Brazil,26
+1531,Spain,176
+1532,Spain,176
+1533,Cameroon,33
+1534,Algeria,2
+1535,Bulgaria,29
+1536,Ukraine,196
+1537,Japan,94
+1538,Brazil,26
+1539,Russia,154
+1540,Ireland,88
+1541,Germany,69
+1542,South Korea,175
+1543,Colombia,39
+1544,Philippines,147
+1545,Malaysia,113
+1546,Mexico,121
+1547,Israel,90
+1548,United Kingdom,198
+1549,Netherlands,133
+1550,Sri Lanka,177
+1551,United Kingdom,198
+1552,United States,199
+1553,Portugal,149
+1554,Austria,11
+1555,Italy,91
+1556,India,84
+1557,Tanzania,186
+1558,New Zealand,135
+1559,United States,199
+1560,Chile,37
+1561,Vietnam,204
+1562,Tanzania,186
+1563,Algeria,2
+1564,United States,199
+1565,Russia,154
+1566,India,84
+1567,Honduras,80
+1568,Pakistan,142
+1569,Netherlands,133
+1570,Turkey,192
+1571,Poland,148
+1572,United Kingdom,198
+1573,Chile,37
+1574,Belgium,18
+1575,Taiwan,184
+1576,United States,199
+1577,Indonesia,85
+1578,Russia,154
+1579,Germany,69
+1580,India,84
+1581,Egypt,53
+1582,India,84
+1583,United States,199
+1584,Russia,154
+1585,Poland,148
+1586,Libya,107
+1587,Spain,176
+1588,Hungary,82
+1589,Peru,146
+1590,Morocco,127
+1591,United States,199
+1592,Finland,62
+1593,United States,199
+1594,Turkey,192
+1595,Kazakhstan,97
+1596,United States,199
+1597,Argentina,7
+1598,Brazil,26
+1599,Belgium,18
+1600,United Kingdom,198
+1601,Libya,107
+1602,Morocco,127
+1603,Italy,91
+1604,Iran,86
+1605,Bosnia And Herzegovina,24
+1606,Romania,153
+1607,Israel,90
+1608,United States,199
+1609,United States,199
+1610,Canada,34
+1611,Spain,176
+1612,Morocco,127
+1613,India,84
+1614,Italy,91
+1615,Peru,146
+1616,Italy,91
+1617,Spain,176
+1618,United States,199
+1619,Italy,91
+1620,Dominican Republic,51
+1621,Gambia,67
+1622,Philippines,147
+1623,United Kingdom,198
+1624,Mexico,121
+1625,Mexico,121
+1626,United States,199
+1627,Chile,37
+1628,Russia,154
+1629,Iran,86
+1630,Algeria,2
+1631,Canada,34
+1632,Kuwait,100
+1633,Poland,148
+1634,Argentina,7
+1635,United States,199
+1636,Malaysia,113
+1637,United States,199
+1638,Brazil,26
+1639,United Kingdom,198
+1640,United Kingdom,198
+1641,Indonesia,85
+1642,Turkey,192
+1643,Russia,154
+1644,Pakistan,142
+1645,Brazil,26
+1646,Portugal,149
+1647,Thailand,187
+1648,Germany,69
+1649,United States,199
+1650,India,84
+1651,Zimbabwe,207
+1652,United States,199
+1653,Finland,62
+1654,Brazil,26
+1655,Dominican Republic,51
+1656,United States,199
+1657,India,84
+1658,Italy,91
+1659,Tunisia,191
+1660,Brazil,26
+1661,Philippines,147
+1662,United States,199
+1663,Egypt,53
+1664,Tajikistan,185
+1665,Netherlands,133
+1666,France,63
+1667,Switzerland,182
+1668,Spain,176
+1669,United States,199
+1670,Australia,10
+1671,United States,199
+1672,Brazil,26
+1673,United States,199
+1674,Poland,148
+1675,Norway,140
+1676,Russia,154
+1677,Serbia,165
+1678,Brazil,26
+1679,Germany,69
+1680,United States,199
+1681,Romania,153
+1682,Canada,34
+1683,Brazil,26
+1684,Philippines,147
+1685,United States,199
+1686,United Kingdom,198
+1687,Portugal,149
+1688,Italy,91
+1689,United States,199
+1690,Bangladesh,15
+1691,Russia,154
+1692,Vietnam,204
+1693,Philippines,147
+1694,Netherlands,133
+1695,Germany,69
+1696,France,63
+1697,Croatia,43
+1698,Algeria,2
+1699,Mexico,121
+1700,United States,199
+1701,Brazil,26
+1702,Poland,148
+1703,South Africa,174
+1704,United States,199
+1705,Australia,10
+1706,Bolivia,23
+1707,United States,199
+1708,Egypt,53
+1709,Germany,69
+1710,United States,199
+1711,Philippines,147
+1712,Oman,141
+1713,Portugal,149
+1714,Spain,176
+1715,Algeria,2
+1716,United States,199
+1717,Belarus,17
+1718,United States,199
+1719,Czech Republic,47
+1720,Japan,94
+1721,Brazil,26
+1722,Poland,148
+1723,Haiti,79
+1724,Mexico,121
+1725,Morocco,127
+1726,Portugal,149
+1727,United States,199
+1728,Brazil,26
+1729,Poland,148
+1730,Portugal,149
+1731,Spain,176
+1732,France,63
+1733,Mexico,121
+1734,Germany,69
+1735,Turkey,192
+1736,Nicaragua,136
+1737,Spain,176
+1738,Egypt,53
+1739,Poland,148
+1740,Mexico,121
+1741,Turkey,192
+1742,Poland,148
+1743,Spain,176
+1744,United States,199
+1745,Algeria,2
+1746,United States,199
+1747,Canada,34
+1748,France,63
+1749,Germany,69
+1750,Italy,91
+1751,Russia,154
+1752,Philippines,147
+1753,United States,199
+1754,Ecuador,52
+1755,Brazil,26
+1756,United States,199
+1757,United States,199
+1758,Nigeria,138
+1759,Jamaica,93
+1760,India,84
+1761,Algeria,2
+1762,United States,199
+1763,Malaysia,113
+1764,Iran,86
+1765,Russia,154
+1766,Germany,69
+1767,United States,199
+1768,Sweden,181
+1769,United States,199
+1770,United States,199
+1771,United Kingdom,198
+1772,United States,199
+1773,China,38
+1774,Netherlands,133
+1775,Ecuador,52
+1776,South Africa,174
+1777,Brazil,26
+1778,Greece,72
+1779,Philippines,147
+1780,Iran,86
+1781,Brazil,26
+1782,Sri Lanka,177
+1783,Iraq,87
+1784,France,63
+1785,India,84
+1786,South Africa,174
+1787,India,84
+1788,Italy,91
+1789,Turkey,192
+1790,Morocco,127
+1791,Lithuania,109
+1792,Algeria,2
+1793,Canada,34
+1794,Germany,69
+1795,Japan,94
+1796,Germany,69
+1797,Denmark,48
+1798,Cuba,44
+1799,Israel,90
+1800,United Kingdom,198
+1801,Chile,37
+1802,Australia,10
+1803,Brazil,26
+1804,Brazil,26
+1805,Bosnia And Herzegovina,24
+1806,India,84
+1807,South Korea,175
+1808,Uzbekistan,201
+1809,United Kingdom,198
+1810,South Africa,174
+1811,United States,199
+1812,India,84
+1813,Canada,34
+1814,Netherlands,133
+1815,India,84
+1816,Puerto Rico,150
+1817,Netherlands,133
+1818,Germany,69
+1819,Germany,69
+1820,Turkey,192
+1821,Romania,153
+1822,France,63
+1823,Germany,69
+1824,France,63
+1825,Brazil,26
+1826,Italy,91
+1827,Hungary,82
+1828,South Africa,174
+1829,United States,199
+1830,Ukraine,196
+1831,Italy,91
+1832,Kazakhstan,97
+1833,Portugal,149
+1834,India,84
+1835,Dominican Republic,51
+1836,United States,199
+1837,Turkey,192
+1838,Portugal,149
+1839,Netherlands,133
+1840,France,63
+1841,United States,199
+1842,Pakistan,142
+1843,Austria,11
+1844,Georgia,68
+1845,Romania,153
+1846,United States,199
+1847,United States,199
+1848,Italy,91
+1849,Vietnam,204
+1850,United States,199
+1851,Ecuador,52
+1852,Turkey,192
+1853,United States,199
+1854,United Kingdom,198
+1855,United States,199
+1856,Belarus,17
+1857,Germany,69
+1858,Mexico,121
+1859,United States,199
+1860,United States,199
+1861,Germany,69
+1862,Ukraine,196
+1863,Egypt,53
+1864,United States,199
+1865,United States,199
+1866,Australia,10
+1867,United States,199
+1868,Brazil,26
+1869,Ukraine,196
+1870,United States,199
+1871,United States,199
+1872,Cambodia,32
+1873,United States,199
+1874,Greece,72
+1875,India,84
+1876,Morocco,127
+1877,Spain,176
+1878,Italy,91
+1879,Uganda,195
+1880,Sudan,178
+1881,Russia,154
+1882,Ecuador,52
+1883,Hungary,82
+1884,United States,199
+1885,United States,199
+1886,Vietnam,204
+1887,United States,199
+1888,Germany,69
+1889,Serbia,165
+1890,Chile,37
+1891,South Africa,174
+1892,Italy,91
+1893,Ukraine,196
+1894,France,63
+1895,Spain,176
+1896,France,63
+1897,Chile,37
+1898,Chile,37
+1899,Japan,94
+1900,United Kingdom,198
+1901,Guadeloupe,74
+1902,Netherlands,133
+1903,Portugal,149
+1904,Spain,176
+1905,South Africa,174
+1906,Pakistan,142
+1907,United Kingdom,198
+1908,Romania,153
+1909,United States,199
+1910,United States,199
+1911,United States,199
+1912,United States,199
+1913,Spain,176
+1914,United Kingdom,198
+1915,Algeria,2
+1916,Romania,153
+1917,United States,199
+1918,Australia,10
+1919,Chile,37
+1920,United States,199
+1921,Russia,154
+1922,Tunisia,191
+1923,Sri Lanka,177
+1924,United Kingdom,198
+1925,Rwanda,155
+1926,United Kingdom,198
+1927,Russia,154
+1928,Brazil,26
+1929,Russia,154
+1930,Philippines,147
+1931,Greece,72
+1932,United States,199
+1933,Panama,143
+1934,Morocco,127
+1935,Morocco,127
+1936,France,63
+1937,Pakistan,142
+1938,India,84
+1939,Japan,94
+1940,Bulgaria,29
+1941,United States,199
+1942,Canada,34
+1943,United States,199
+1944,Portugal,149
+1945,Mexico,121
+1946,United States,199
+1947,France,63
+1948,Libya,107
+1949,United Kingdom,198
+1950,United Kingdom,198
+1951,United States,199
+1952,United Kingdom,198
+1953,North Macedonia,139
+1954,United States,199
+1955,Spain,176
+1956,Honduras,80
+1957,France,63
+1958,Switzerland,182
+1959,Brazil,26
+1960,United Kingdom,198
+1961,Dominican Republic,51
+1962,Pakistan,142
+1963,Russia,154
+1964,Canada,34
+1965,Zimbabwe,207
+1966,United Kingdom,198
+1967,Poland,148
+1968,Brazil,26
+1969,Canada,34
+1970,France,63
+1971,Albania,1
+1972,Hungary,82
+1973,United States,199
+1974,United States,199
+1975,United States,199
+1976,Malaysia,113
+1977,Philippines,147
+1978,India,84
+1979,United States,199
+1980,Algeria,2
+1981,Dominican Republic,51
+1982,France,63
+1983,Poland,148
+1984,Canada,34
+1985,Jordan,96
+1986,Bangladesh,15
+1987,Pakistan,142
+1988,Brazil,26
+1989,United States,199
+1990,Israel,90
+1991,India,84
+1992,United States,199
+1993,Germany,69
+1994,Australia,10
+1995,Spain,176
+1996,Cuba,44
+1997,Philippines,147
+1998,Indonesia,85
+1999,Finland,62
+2000,Philippines,147
+2001,United States,199
+2002,Brazil,26
+2003,India,84
+2004,Portugal,149
+2005,Spain,176
+2006,Puerto Rico,150
+2007,Chile,37
+2008,Portugal,149
+2009,El Salvador,54
+2010,Netherlands,133
+2011,France,63
+2012,Romania,153
+2013,Italy,91
+2014,Moldova,122
+2015,Algeria,2
+2016,Morocco,127
+2017,United States,199
+2018,Nicaragua,136
+2019,United States,199
+2020,Australia,10
+2021,Uzbekistan,201
+2022,United Kingdom,198
+2023,New Zealand,135
+2024,Israel,90
+2025,Spain,176
+2026,Thailand,187
+2027,Algeria,2
+2028,Canada,34
+2029,Jamaica,93
+2030,Colombia,39
+2031,Israel,90
+2032,United States,199
+2033,Spain,176
+2034,United States,199
+2035,Sri Lanka,177
+2036,Austria,11
+2037,Hungary,82
+2038,United States,199
+2039,United States,199
+2040,Cambodia,32
+2041,United States,199
+2042,Nicaragua,136
+2043,Algeria,2
+2044,United States,199
+2045,France,63
+2046,Brazil,26
+2047,Italy,91
+2048,Norway,140
+2049,Canada,34
+2050,Syria,183
+2051,Croatia,43
+2052,United States,199
+2053,Cameroon,33
+2054,United States,199
+2055,Jamaica,93
+2056,Japan,94
+2057,United States,199
+2058,Turkey,192
+2059,Poland,148
+2060,Netherlands,133
+2061,Brazil,26
+2062,Russia,154
+2063,Thailand,187
+2064,United States,199
+2065,India,84
+2066,France,63
+2067,Canada,34
+2068,Nicaragua,136
+2069,Sweden,181
+2070,Chile,37
+2071,Russia,154
+2072,Germany,69
+2073,Brazil,26
+2074,Pakistan,142
+2075,Ghana,70
+2076,Uruguay,200
+2077,Thailand,187
+2078,Ukraine,196
+2079,Canada,34
+2080,Saudi Arabia,163
+2081,Belarus,17
+2082,Netherlands,133
+2083,Russia,154
+2084,Sweden,181
+2085,Germany,69
+2086,Germany,69
+2087,Italy,91
+2088,Dominican Republic,51
+2089,United States,199
+2090,Portugal,149
+2091,United Kingdom,198
+2092,Germany,69
+2093,United Kingdom,198
+2094,Italy,91
+2095,Russia,154
+2096,Brazil,26
+2097,United States,199
+2098,United Kingdom,198
+2099,United Kingdom,198
+2100,Brazil,26
+2101,United States,199
+2102,Denmark,48
+2103,Netherlands,133
+2104,Cambodia,32
+2105,United States,199
+2106,Dominican Republic,51
+2107,United States,199
+2108,Portugal,149
+2109,Spain,176
+2110,United States,199
+2111,Lebanon,104
+2112,Poland,148
+2113,United States,199
+2114,Germany,69
+2115,Russia,154
+2116,Armenia,8
+2117,Pakistan,142
+2118,Mexico,121
+2119,Italy,91
+2120,Spain,176
+2121,Romania,153
+2122,Netherlands,133
+2123,United States,199
+2124,Colombia,39
+2125,South Africa,174
+2126,Poland,148
+2127,Mexico,121
+2128,United Kingdom,198
+2129,Brazil,26
+2130,Italy,91
+2131,Philippines,147
+2132,United Kingdom,198
+2133,Algeria,2
+2134,Albania,1
+2135,United States,199
+2136,United States,199
+2137,Poland,148
+2138,Italy,91
+2139,Brazil,26
+2140,Mexico,121
+2141,United States,199
+2142,Brazil,26
+2143,Morocco,127
+2144,France,63
+2145,Germany,69
+2146,Portugal,149
+2147,Finland,62
+2148,United States,199
+2149,France,63
+2150,United Kingdom,198
+2151,Canada,34
+2152,Honduras,80
+2153,Netherlands,133
+2154,United States,199
+2155,Algeria,2
+2156,United States,199
+2157,France,63
+2158,Argentina,7
+2159,Brazil,26
+2160,France,63
+2161,Poland,148
+2162,Brazil,26
+2163,Peru,146
+2164,United States,199
+2165,United Kingdom,198
+2166,United States,199
+2167,Tunisia,191
+2168,Belgium,18
+2169,Finland,62
+2170,Nepal,132
+2171,Sweden,181
+2172,Italy,91
+2173,United States,199
+2174,Germany,69
+2175,United States,199
+2176,United States,199
+2177,United States,199
+2178,Zambia,206
+2179,Ukraine,196
+2180,Canada,34
+2181,Kenya,98
+2182,United Kingdom,198
+2183,Poland,148
+2184,Mozambique,128
+2185,Russia,154
+2186,Philippines,147
+2187,Germany,69
+2188,Russia,154
+2189,United States,199
+2190,Colombia,39
+2191,Hungary,82
+2192,Italy,91
+2193,Argentina,7
+2194,Argentina,7
+2195,Romania,153
+2196,Sweden,181
+2197,United States,199
+2198,India,84
+2199,United States,199
+2200,United States,199
+2201,Chile,37
+2202,France,63
+2203,United States,199
+2204,Pakistan,142
+2205,Thailand,187
+2206,Thailand,187
+2207,Albania,1
+2208,Japan,94
+2209,Tunisia,191
+2210,United States,199
+2211,United States,199
+2212,Germany,69
+2213,United States,199
+2214,Bosnia And Herzegovina,24
+2215,Germany,69
+2216,United States,199
+2217,France,63
+2218,United States,199
+2219,Malaysia,113
+2220,United Kingdom,198
+2221,Canada,34
+2222,Germany,69
+2223,United States,199
+2224,Taiwan,184
+2225,Germany,69
+2226,Puerto Rico,150
+2227,Tunisia,191
+2228,Germany,69
+2229,Italy,91
+2230,Russia,154
+2231,Norway,140
+2232,United States,199
+2233,Argentina,7
+2234,United States,199
+2235,Albania,1
+2236,United States,199
+2237,Philippines,147
+2238,Germany,69
+2239,Germany,69
+2240,Portugal,149
+2241,France,63
+2242,Brazil,26
+2243,Spain,176
+2244,United Kingdom,198
+2245,Italy,91
+2246,Russia,154
+2247,United States,199
+2248,United States,199
+2249,Belgium,18
+2250,Germany,69
+2251,Bosnia And Herzegovina,24
+2252,Swaziland,180
+2253,Switzerland,182
+2254,Russia,154
+2255,Netherlands,133
+2256,United States,199
+2257,Somalia,173
+2258,United Kingdom,198
+2259,Tunisia,191
+2260,United States,199
+2261,El Salvador,54
+2262,United States,199
+2263,Ukraine,196
+2264,Algeria,2
+2265,Norway,140
+2266,Taiwan,184
+2267,Peru,146
+2268,Hungary,82
+2269,Poland,148
+2270,United States,199
+2271,Philippines,147
+2272,France,63
+2273,South Africa,174
+2274,Tunisia,191
+2275,United Kingdom,198
+2276,Romania,153
+2277,United States,199
+2278,United States,199
+2279,Turkey,192
+2280,United States,199
+2281,United Kingdom,198
+2282,Canada,34
+2283,Egypt,53
+2284,United Kingdom,198
+2285,Iran,86
+2286,Lithuania,109
+2287,Turkey,192
+2288,Poland,148
+2289,Philippines,147
+2290,Netherlands,133
+2291,Ukraine,196
+2292,Australia,10
+2293,Israel,90
+2294,United States,199
+2295,United States,199
+2296,United States,199
+2297,United States,199
+2298,Guatemala,75
+2299,Tunisia,191
+2300,Thailand,187
+2301,United States,199
+2302,Brazil,26
+2303,Sri Lanka,177
+2304,Iraq,87
+2305,Ukraine,196
+2306,Philippines,147
+2307,United States,199
+2308,Czech Republic,47
+2309,Italy,91
+2310,Germany,69
+2311,Turkey,192
+2312,Canada,34
+2313,Philippines,147
+2314,Germany,69
+2315,Spain,176
+2316,Turkey,192
+2317,Ukraine,196
+2318,United States,199
+2319,Russia,154
+2320,United Kingdom,198
+2321,Netherlands,133
+2322,United States,199
+2323,New Zealand,135
+2324,United Kingdom,198
+2325,France,63
+2326,United Kingdom,198
+2327,Moldova,122
+2328,Germany,69
+2329,Turkey,192
+2330,Brazil,26
+2331,Italy,91
+2332,Brazil,26
+2333,Germany,69
+2334,Romania,153
+2335,United States,199
+2336,Greece,72
+2337,Belgium,18
+2338,United States,199
+2339,Canada,34
+2340,Austria,11
+2341,United States,199
+2342,United States,199
+2343,Libya,107
+2344,South Korea,175
+2345,United States,199
+2346,Morocco,127
+2347,Czech Republic,47
+2348,Oman,141
+2349,Papua New Guinea,144
+2350,Bulgaria,29
+2351,United States,199
+2352,Italy,91
+2353,Germany,69
+2354,Italy,91
+2355,United States,199
+2356,United States,199
+2357,United States,199
+2358,Belarus,17
+2359,Turkey,192
+2360,United States,199
+2361,United States,199
+2362,United States,199
+2363,United States,199
+2364,Philippines,147
+2365,Canada,34
+2366,United States,199
+2367,Canada,34
+2368,New Zealand,135
+2369,Belarus,17
+2370,Portugal,149
+2371,United States,199
+2372,Slovenia,171
+2373,Sri Lanka,177
+2374,Romania,153
+2375,United States,199
+2376,United Kingdom,198
+2377,United States,199
+2378,Israel,90
+2379,Spain,176
+2380,Jamaica,93
+2381,Morocco,127
+2382,Indonesia,85
+2383,Hungary,82
+2384,Germany,69
+2385,Guatemala,75
+2386,Tunisia,191
+2387,Czech Republic,47
+2388,United Kingdom,198
+2389,Tunisia,191
+2390,Estonia,57
+2391,Romania,153
+2392,United States,199
+2393,Armenia,8
+2394,Romania,153
+2395,Netherlands,133
+2396,United Arab Emirates,197
+2397,Czech Republic,47
+2398,Czech Republic,47
+2399,United Kingdom,198
+2400,United Kingdom,198
+2401,Czech Republic,47
+2402,Taiwan,184
+2403,United Kingdom,198
+2404,Russia,154
+2405,Lithuania,109
+2406,Sweden,181
+2407,Sweden,181
+2408,Portugal,149
+2409,Sri Lanka,177
+2410,Russia,154
+2411,Greece,72
+2412,United States,199
+2413,France,63
+2414,Ecuador,52
+2415,Slovakia,170
+2416,Bulgaria,29
+2417,Belgium,18
+2418,Spain,176
+2419,Serbia,165
+2420,Italy,91
+2421,United States,199
+2422,Greece,72
+2423,Jordan,96
+2424,Ukraine,196
+2425,Bulgaria,29
+2426,Qatar,151
+2427,Turkey,192
+2428,Portugal,149
+2429,Italy,91
+2430,United States,199
+2431,United Kingdom,198
+2432,Paraguay,145
+2433,Spain,176
+2434,United States,199
+2435,United States,199
+2436,Uruguay,200
+2437,Spain,176
+2438,Thailand,187
+2439,United Kingdom,198
+2440,Serbia,165
+2441,Italy,91
+2442,Romania,153
+2443,Finland,62
+2444,Algeria,2
+2445,United States,199
+2446,Spain,176
+2447,Mexico,121
+2448,Italy,91
+2449,Finland,62
+2450,United States,199
+2451,Bahrain,14
+2452,Israel,90
+2453,Trinidad And Tobago,190
+2454,Croatia,43
+2455,Uganda,195
+2456,Switzerland,182
+2457,Ukraine,196
+2458,Slovakia,170
+2459,Canada,34
+2460,Thailand,187
+2461,Tunisia,191
+2462,Ghana,70
+2463,United States,199
+2464,Romania,153
+2465,France,63
+2466,United Kingdom,198
+2467,Romania,153
+2468,United Kingdom,198
+2469,United States,199
+2470,Canada,34
+2471,Bulgaria,29
+2472,Netherlands,133
+2473,Albania,1
+2474,United Kingdom,198
+2475,United States,199
+2476,Latvia,103
+2477,Ireland,88
+2478,United States,199
+2479,United Kingdom,198
+2480,United States,199
+2481,United States,199
+2482,Romania,153
+2483,Portugal,149
+2484,Guatemala,75
+2485,Italy,91
+2486,United States,199
+2487,United Kingdom,198
+2488,Spain,176
+2489,Morocco,127
+2490,Thailand,187
+2491,Kenya,98
+2492,Thailand,187
+2493,United States,199
+2494,United Kingdom,198
+2495,Portugal,149
+2496,Slovakia,170
+2497,Hungary,82
+2498,France,63
+2499,Israel,90
+2500,France,63
+2501,Slovakia,170
+2502,United Kingdom,198
+2503,Netherlands,133
+2504,Denmark,48
+2505,United Kingdom,198
+2506,Mexico,121
+2507,Sweden,181
+2508,France,63
+2509,United States,199
+2510,Uruguay,200
+2511,Serbia,165
+2512,Serbia,165
+2513,Croatia,43
+2514,New Zealand,135
+2515,France,63
+2516,Greece,72
+2517,United Kingdom,198
+2518,Israel,90
+2519,Sweden,181
+2520,Czech Republic,47
+2521,Romania,153
+2522,Finland,62
+2523,Netherlands,133
+2524,North Macedonia,139
+2525,Netherlands,133
+2526,Bulgaria,29
+2527,Bulgaria,29
+2528,Azerbaijan,12
+2529,United Kingdom,198
+2530,Romania,153
+2531,United States,199
+2532,Zimbabwe,207
+2533,Tunisia,191
+2534,Turkey,192
+2535,Tunisia,191
+2536,Turkey,192
+2537,Yemen,205
+2538,United States,199
+2539,United States,199
+2540,Puerto Rico,150
+2541,Bulgaria,29
+2542,United Kingdom,198
+2543,Finland,62
+2544,Spain,176
+2545,France,63
+2546,Oman,141
+2547,Czech Republic,47
+2548,United States,199
+2549,Serbia,165
+2550,Bulgaria,29
+2551,France,63
+2552,United Kingdom,198
+2553,Panama,143
+2554,Israel,90
+2555,North Macedonia,139
+2556,Bulgaria,29
+2557,Thailand,187
+2558,Serbia,165
+2559,Hungary,82
+2560,Turkey,192
+2561,United Kingdom,198
+2562,Italy,91
+2563,United States,199
+2564,Peru,146
+2565,United States,199
+2566,Uruguay,200
+2567,Italy,91
+2568,France,63
+2569,Malaysia,113
+2570,Latvia,103
+2571,Turkey,192
+2572,Algeria,2
+2573,Netherlands,133
+2574,Portugal,149
+2575,United Kingdom,198
+2576,Puerto Rico,150
+2577,Uganda,195
+2578,Poland,148
+2579,Algeria,2
+2580,Finland,62
+2581,Finland,62
+2582,United States,199
+2583,United Kingdom,198
+2584,United States,199
+2585,United States,199
+2586,Russia,154
+2587,United Kingdom,198
+2588,North Macedonia,139
+2589,Serbia,165
+2590,United States,199
+2591,Greece,72
+2592,France,63
+2593,United Kingdom,198
+2594,Bulgaria,29
+2595,Slovakia,170
+2596,Greece,72
+2597,Turkey,192
+2598,France,63
+2599,Spain,176
+2600,Hungary,82
+2601,Turkey,192
+2602,Portugal,149
+2603,United States,199
+2604,United States,199
+2605,Honduras,80
+2606,United States,199
+2607,United Kingdom,198
+2608,Romania,153
+2609,United States,199
+2610,Turkey,192
+2611,Hungary,82
+2612,France,63
+2613,Thailand,187
+2614,New Zealand,135
+2615,Thailand,187
+2616,Serbia,165
+2617,France,63
+2618,Romania,153
+2619,Russia,154
+2620,Rwanda,155
+2621,Finland,62
+2622,France,63
+2623,Finland,62
+2624,Ireland,88
+2625,Cyprus,46
+2626,Sweden,181
+2627,Romania,153
+2628,United Kingdom,198
+2629,Poland,148
+2630,United States,199
+2631,France,63
+2632,Hungary,82
+2633,France,63
+2634,Thailand,187
+2635,Serbia,165
+2636,United States,199
+2637,Israel,90
+2638,United Kingdom,198
+2639,Uruguay,200
+2640,United States,199
+2641,United Kingdom,198
+2642,United States,199
+2643,United States,199
+2644,Azerbaijan,12
+2645,Italy,91
+2646,France,63
+2647,Serbia,165
+2648,United States,199
+2649,Hungary,82
+2650,Greece,72
+2651,United States,199
+2652,Hungary,82
+2653,United States,199
+2654,Croatia,43
+2655,United States,199
+2656,Botswana,25
+2657,United States,199
+2658,India,84
+2659,Romania,153
+2660,Vietnam,204
+2661,Belize,19
+2662,Turkey,192
+2663,Turkey,192
+2664,Romania,153
+2665,Portugal,149
+2666,Slovakia,170
+2667,Latvia,103
+2668,Romania,153
+2669,North Macedonia,139
+2670,United Kingdom,198
+2671,United States,199
+2672,Italy,91
+2673,Portugal,149
+2674,Hungary,82
+2675,Philippines,147
+2676,France,63
+2677,Austria,11
+2678,Sweden,181
+2679,Bahrain,14
+2680,United Kingdom,198
+2681,Fiji,61
+2682,Thailand,187
+2683,United States,199
+2684,India,84
+2685,Netherlands,133
+2686,Norway,140
+2687,Spain,176
+2688,Finland,62
+2689,Kosovo (Disputed Territory),99
+2690,United Kingdom,198
+2691,Thailand,187
+2692,United States,199
+2693,France,63
+2694,Costa Rica,42
+2695,Ecuador,52
+2696,Albania,1
+2697,Thailand,187
+2698,Thailand,187
+2699,Cambodia,32
+2700,Uganda,195
+2701,Bulgaria,29
+2702,Mexico,121
+2703,Thailand,187
+2704,United States,199
+2705,Denmark,48
+2706,United States,199
+2707,Norway,140
+2708,United States,199
+2709,United States,199
+2710,Greece,72
+2711,France,63
+2712,New Zealand,135
+2713,Azerbaijan,12
+2714,Sri Lanka,177
+2715,Czech Republic,47
+2716,Hungary,82
+2717,Czech Republic,47
+2718,Serbia,165
+2719,United States,199
+2720,Bulgaria,29
+2721,Greece,72
+2722,Sri Lanka,177
+2723,United Kingdom,198
+2724,Georgia,68
+2725,Lithuania,109
+2726,United States,199
+2727,Latvia,103
+2728,United Kingdom,198
+2729,Armenia,8
+2730,France,63
+2731,Italy,91
+2732,United States,199
+2733,Sweden,181
+2734,Fiji,61
+2735,United States,199
+2736,United States,199
+2737,United Kingdom,198
+2738,United Kingdom,198
+2739,Ireland,88
+2740,New Zealand,135
+2741,Trinidad And Tobago,190
+2742,Israel,90
+2743,Spain,176
+2744,United States,199
+2745,Portugal,149
+2746,Czech Republic,47
+2747,United Kingdom,198
+2748,Jamaica,93
+2749,Thailand,187
+2750,New Zealand,135
+2751,France,63
+2752,Israel,90
+2753,United States,199
+2754,Finland,62
+2755,Sri Lanka,177
+2756,Hungary,82
+2757,Panama,143
+2758,Israel,90
+2759,Sweden,181
+2760,Croatia,43
+2761,Bolivia,23
+2762,Belgium,18
+2763,Bulgaria,29
+2764,Romania,153
+2765,Algeria,2
+2766,Switzerland,182
+2767,United Kingdom,198
+2768,Hungary,82
+2769,Georgia,68
+2770,Bulgaria,29
+2771,France,63
+2772,Israel,90
+2773,Algeria,2
+2774,Uganda,195
+2775,Turkey,192
+2776,North Macedonia,139
+2777,Sri Lanka,177
+2778,United States,199
+2779,North Macedonia,139
+2780,Israel,90
+2781,Portugal,149
+2782,Hungary,82
+2783,Ireland,88
+2784,Sweden,181
+2785,France,63
+2786,United Kingdom,198
+2787,Cambodia,32
+2788,Croatia,43
+2789,Netherlands,133
+2790,United Kingdom,198
+2791,Italy,91
+2792,Switzerland,182
+2793,Albania,1
+2794,Portugal,149
+2795,Thailand,187
+2796,Cambodia,32
+2797,Romania,153
+2798,United States,199
+2799,United States,199
+2800,Philippines,147
+2801,Mexico,121
+2802,France,63
+2803,Turkey,192
+2804,Paraguay,145
+2805,India,84
+2806,Cyprus,46
+2807,United States,199
+2808,France,63
+2809,Azerbaijan,12
+2810,Estonia,57
+2811,Croatia,43
+2812,United States,199
+2813,Ireland,88
+2814,Thailand,187
+2815,United States,199
+2816,Bosnia And Herzegovina,24
+2817,Slovenia,171
+2818,Switzerland,182
+2819,United States,199
+2820,United States,199
+2821,Norway,140
+2822,United States,199
+2823,Uruguay,200
+2824,United Kingdom,198
+2825,Luxembourg,110
+2826,United States,199
+2827,Azerbaijan,12
+2828,Greece,72
+2829,United States,199
+2830,United States,199
+2831,Slovenia,171
+2832,Cyprus,46
+2833,Djibouti,49
+2834,United States,199
+2835,United States,199
+2836,Finland,62
+2837,Switzerland,182
+2838,Tunisia,191
+2839,France,63
+2840,United Kingdom,198
+2841,United States,199
+2842,United States,199
+2843,Sweden,181
+2844,United Kingdom,198
+2845,Poland,148
+2846,United Kingdom,198
+2847,United States,199
+2848,United States,199
+2849,France,63
+2850,Turkey,192
+2851,United States,199
+2852,North Macedonia,139
+2853,Italy,91
+2854,Serbia,165
+2855,United States,199
+2856,Switzerland,182
+2857,New Zealand,135
+2858,Italy,91
+2859,United States,199
+2860,United States,199
+2861,Netherlands,133
+2862,Lithuania,109
+2863,Nicaragua,136
+2864,Italy,91
+2865,Cambodia,32
+2866,Haiti,79
+2867,Thailand,187
+2868,Kenya,98
+2869,Namibia,130
+2870,Bulgaria,29
+2871,United States,199
+2872,Sweden,181
+2873,Latvia,103
+2874,United States,199
+2875,United States,199
+2876,Malta,116
+2877,United States,199
+2878,United States,199
+2879,Croatia,43
+2880,Bulgaria,29
+2881,Bulgaria,29
+2882,Morocco,127
+2883,Lithuania,109
+2884,Colombia,39
+2885,Switzerland,182
+2886,United States,199
+2887,United States,199
+2888,United States,199
+2889,Thailand,187
+2890,United States,199
+2891,Switzerland,182
+2892,France,63
+2893,Norway,140
+2894,France,63
+2895,Hungary,82
+2896,Azerbaijan,12
+2897,Croatia,43
+2898,United States,199
+2899,Austria,11
+2900,United Kingdom,198
+2901,Mexico,121
+2902,Italy,91
+2903,Papua New Guinea,144
+2904,United States,199
+2905,Thailand,187
+2906,United States,199
+2907,Serbia,165
+2908,Moldova,122
+2909,Switzerland,182
+2910,Ireland,88
+2911,Switzerland,182
+2912,Belgium,18
+2913,Denmark,48
+2914,United States,199
+2915,Mexico,121
+2916,Bulgaria,29
+2917,Netherlands,133
+2918,North Macedonia,139
+2919,Latvia,103
+2920,Switzerland,182
+2921,Greece,72
+2922,Slovenia,171
+2923,Spain,176
+2924,France,63
+2925,Slovenia,171
+2926,Malta,116
+2927,United States,199
+2928,Germany,69
+2929,New Zealand,135
+2930,Lithuania,109
+2931,Thailand,187
+2932,Nicaragua,136
+2933,Ireland,88
+2934,United States,199
+2935,Cambodia,32
+2936,Costa Rica,42
+2937,Algeria,2
+2938,United States,199
+2939,Sweden,181
+2940,United States,199
+2941,United States,199
+2942,United States,199
+2943,United Kingdom,198
+2944,Croatia,43
+2945,Slovenia,171
+2946,United States,199
+2947,Lebanon,104
+2948,United States,199
+2949,Thailand,187
+2950,United States,199
+2951,Ireland,88
+2952,Portugal,149
+2953,United States,199
+2954,United States,199
+2955,Lebanon,104
+2956,Turkey,192
+2957,Albania,1
+2958,Serbia,165
+2959,Turkey,192
+2960,United States,199
+2961,France,63
+2962,United Kingdom,198
+2963,Thailand,187
+2964,Switzerland,182
+2965,Switzerland,182
+2966,Malta,116
+2967,Switzerland,182
+2968,Ireland,88
+2969,Jordan,96
+2970,France,63
+2971,Switzerland,182
+2972,Latvia,103
+2973,Turkey,192
+2974,United States,199
+2975,Lithuania,109
+2976,Latvia,103
+2977,Austria,11
+2978,Thailand,187
+2979,United Kingdom,198
+2980,Turkey,192
+2981,Italy,91
+2982,Malta,116
+2983,Ireland,88
+2984,United Kingdom,198
+2985,Ireland,88
+2986,Papua New Guinea,144
+2987,Turkey,192
+2988,Armenia,8
+2989,United States,199
+2990,United States,199
+2991,Turkey,192
+2992,Turkey,192
+2993,Croatia,43
+2994,Lithuania,109
+2995,Moldova,122
+2996,Uruguay,200
+2997,Serbia,165
+2998,Italy,91
+2999,United States,199
+3000,Serbia,165
+3001,Malta,116
+3002,United States,199
+3003,Mexico,121
+3004,Montenegro,125
+3005,Ireland,88
+3006,Albania,1
+3007,United States,199
+3008,Montenegro,125
+3009,United States,199
+3010,Switzerland,182
+3011,United States,199
+3012,Lithuania,109
+3013,Sweden,181
+3014,United States,199
+3015,Slovenia,171
+3016,United States,199
+3017,United States,199
+3018,Malta,116
+3019,Turkey,192
+3020,United States,199
+3021,Trinidad And Tobago,190
+3022,Estonia,57
+3023,Belize,19
+3024,Malawi,112
+3025,Spain,176
+3026,Malta,116
+3027,Netherlands,133
+3028,United States,199
+3029,Germany,69
+3030,Belize,19
+3031,Switzerland,182
+3032,United States,199
+3033,North Macedonia,139
+3034,Lithuania,109
+3035,Lithuania,109
+3036,United States,199
+3037,Montenegro,125
+3038,United States,199
+3039,United Kingdom,198
+3040,United States,199
+3041,Estonia,57
+3042,United States,199
+3043,United Kingdom,198
+3044,United States,199
+3045,Mexico,121
+3046,New Zealand,135
+3047,United States,199
+3048,Albania,1
+3049,Turkey,192
+3050,Lithuania,109
+3051,Malta,116
+3052,Slovenia,171
+3053,Turkey,192
+3054,Lithuania,109
+3055,Bhutan,22
+3056,United States,199
+3057,Andorra,3
+3058,Italy,91
+3059,Latvia,103
+3060,North Macedonia,139
+3061,United States,199
+3062,Malta,116
+3063,Switzerland,182
+3064,Montenegro,125
+3065,Estonia,57
+3066,United States,199
+3067,Jamaica,93
+3068,Montenegro,125
+3069,United States,199
+3070,Malta,116
+3071,United States,199
+3072,France,63
+3073,Malta,116
+3074,Slovenia,171
+3075,Malta,116
+3076,Malta,116
+3077,Suriname,179
+3078,United States,199
+3079,Malta,116
+3080,Slovenia,171
+3081,Norway,140
+3082,Estonia,57
+3083,United States,199
+3084,Malta,116
+3085,Moldova,122
+3086,Greece,72
+3087,Panama,143
+3088,Lithuania,109
+3089,Italy,91
+3090,Slovenia,171
+3091,France,63
+3092,United States,199
+3093,Malta,116
+3094,Slovenia,171
+3095,Malta,116
+3096,India,84
+3097,Slovenia,171
+3098,United States,199
+3099,United States,199
+3100,North Macedonia,139
+3101,Estonia,57
+3102,Malta,116
+3103,Honduras,80
+3104,Yemen,205
+3105,Liberia,106
+3106,Estonia,57
+3107,Trinidad And Tobago,190
+3108,Serbia,165
+3109,France,63
+3110,Malta,116
+3111,United States,199
+3112,United States,199
+3113,Lithuania,109
+3114,Latvia,103
+3115,Slovenia,171
+3116,Slovenia,171
+3117,United States,199
+3118,Andorra,3
+3119,Puerto Rico,150
+3120,Slovenia,171
+3121,Serbia,165
+3122,Latvia,103
+3123,Malta,116
+3124,Slovenia,171
+3125,Moldova,122
+3126,Turkey,192
+3127,Estonia,57
+3128,United Kingdom,198
+3129,Slovenia,171
+3130,Slovenia,171
+3131,New Zealand,135
+3132,Armenia,8
+3133,United States,199
+3134,United States,199
+3135,Azerbaijan,12
+3136,United States,199
+3137,United States,199
+3138,Luxembourg,110
+3139,Puerto Rico,150
+3140,North Macedonia,139
+3141,Turkey,192
+3142,Malta,116
+3143,Slovenia,171
+3144,United States,199
+3145,Latvia,103
+3146,Ireland,88
+3147,Latvia,103
+3148,Latvia,103
+3149,Moldova,122
+3150,United States,199
+3151,North Macedonia,139
+3152,Estonia,57
+3153,Liechtenstein,108
+3154,Switzerland,182
+3155,Slovenia,171
+3156,Slovenia,171
+3157,Luxembourg,110
+3158,United States,199
+3159,United States,199
+3160,Luxembourg,110
+3161,Liechtenstein,108
+3162,Malta,116
+3163,Kenya,98
+3164,Puerto Rico,150
+3165,United States,199
+3166,United States,199
+3167,Luxembourg,110
+3168,United States,199
+3169,Malta,116
+3170,Belize,19
+3171,United States,199
+3172,Bhutan,22
+3173,North Macedonia,139
+3174,Liechtenstein,108
+3175,Malta,116
+3176,Brunei,28
+3177,North Macedonia,139
+3178,Jamaica,93
+3179,Malta,116
+3180,Malta,116
+3181,Malta,116
+3182,Malta,116
+3183,North Macedonia,139
+3184,Malta,116
+3185,Malta,116
+3186,Suriname,179
+3187,Greenland,73
+3188,Trinidad And Tobago,190
+3189,North Macedonia,139
+3190,Mongolia,124
+3191,Slovenia,171
+3192,Serbia,165
+3193,North Macedonia,139
+3194,Uganda,195
+3195,Cambodia,32
+3196,Liechtenstein,108
+3197,Cape Verde,35
+3198,Kenya,98
+3199,Serbia,165
+3200,Montenegro,125
+3201,Malta,116
+3202,Malta,116
+3203,Ireland,88
+3204,Serbia,165
+3205,Ireland,88
+3206,Ireland,88
+3207,Sri Lanka,177
+3208,Guyana,78
+3209,Slovenia,171
+3210,Ireland,88
+3211,Serbia,165
+3212,Slovenia,171
+3213,Ireland,88
+3214,Ireland,88
+3215,Algeria,2
+3216,Trinidad And Tobago,190
+3217,Malta,116
+3218,Jordan,96
+3219,Croatia,43
+3220,Serbia,165
+3221,Serbia,165
+3222,Serbia,165
+3223,Serbia,165
+3224,Serbia,165
+3225,San Marino,161
+3226,San Marino,161
+3227,North Macedonia,139
+3228,Nigeria,138
+3229,Kosovo (Disputed Territory),99
+3230,South Africa,174
+3231,Croatia,43
+3232,Slovenia,171
+3233,Montenegro,125
+3234,Serbia,165
+3235,Kosovo (Disputed Territory),99
+3236,Libya,107
+3237,Luxembourg,110
+3238,Kosovo (Disputed Territory),99
+3239,North Macedonia,139
+3240,Kosovo (Disputed Territory),99
+3241,Trinidad And Tobago,190
+3242,Serbia,165
+3243,Somalia,173
+3244,Moldova,122
+3245,Faroe Islands,60
+3246,Montenegro,125
+3247,Montenegro,125
+3248,Kosovo (Disputed Territory),99
+3249,Faroe Islands,60
+3250,Lithuania,109
+3251,Montenegro,125
+3252,Italy,91
+3253,Poland,148
+3254,Poland,148
+3255,Ethiopia,58
+3256,Australia,10
+3257,Italy,91
+3258,United States,199
+3259,United States,199
+3260,United States,199
+3261,Germany,69
+3262,United Kingdom,198
+3263,Tunisia,191
+3264,Canada,34
+3265,Brazil,26
+3266,Pakistan,142
+3267,Germany,69
+3268,Italy,91
+3269,Ukraine,196
+3270,Russia,154
+3271,Pakistan,142
+3272,Italy,91
+3273,Italy,91
+3274,Italy,91
+3275,Russia,154
+3276,United States,199
+3277,Poland,148
+3278,Italy,91
+3279,Russia,154
+3280,United States,199
+3281,Russia,154
+3282,United States,199
+3283,Israel,90
+3284,United States,199
+3285,United Kingdom,198
+3286,Italy,91
+3287,United States,199
+3288,United States,199
+3289,France,63
+3290,United States,199
+3291,United States,199
+3292,Russia,154
+3293,Canada,34
+3294,South Africa,174
+3295,United States,199
+3296,Brazil,26
+3297,Spain,176
+3298,United States,199
+3299,United States,199
+3300,United States,199
+3301,United States,199
+3302,Canada,34
+3303,Dominican Republic,51
+3304,Germany,69
+3305,Germany,69
+3306,United States,199
+3307,Belarus,17
+3308,United States,199
+3309,Italy,91
+3310,Canada,34
+3311,Italy,91
+3312,United States,199
+3313,Germany,69
+3314,Italy,91
+3315,Netherlands,133
+3316,Sweden,181
+3317,Germany,69
+3318,United States,199
+3319,Bosnia And Herzegovina,24
+3320,United States,199
+3321,France,63
+3322,Netherlands,133
+3323,Tunisia,191
+3324,Canada,34
+3325,Italy,91
+3326,United States,199
+3327,Spain,176
+3328,United States,199
+3329,Belgium,18
+3330,Italy,91
+3331,Spain,176
+3332,United States,199
+3333,United States,199
+3334,United States,199
+3335,Canada,34
+3336,United States,199
+3337,Brazil,26
+3338,United States,199
+3339,United States,199
+3340,Spain,176
+3341,Spain,176
+3342,Canada,34
+3343,Germany,69
+3344,Spain,176
+3345,Norway,140
+3346,United Kingdom,198
+3347,Brazil,26
+3348,Germany,69
+3349,United States,199
+3350,Canada,34
+3351,United States,199
+3352,United States,199
+3353,United Kingdom,198
+3354,Italy,91
+3355,Canada,34
+3356,United States,199
+3357,Germany,69
+3358,Morocco,127
+3359,United States,199
+3360,Kenya,98
+3361,United States,199
+3362,United States,199
+3363,Spain,176
+3364,United States,199
+3365,Portugal,149
+3366,United States,199
+3367,Brazil,26
+3368,United States,199
+3369,Poland,148
+3370,Germany,69
+3371,Morocco,127
+3372,United States,199
+3373,United States,199
+3374,Belgium,18
+3375,United States,199
+3376,United Kingdom,198
+3377,United States,199
+3378,United States,199
+3379,Brazil,26
+3380,Belgium,18
+3381,Germany,69
+3382,Belgium,18
+3383,Russia,154
+3384,United States,199
+3385,United States,199
+3386,Poland,148
+3387,Italy,91
+3388,Israel,90
+3389,Poland,148
+3390,United States,199
+3391,Germany,69
+3392,Brazil,26
+3393,Spain,176
+3394,Morocco,127
+3395,Germany,69
+3396,Russia,154
+3397,United States,199
+3398,United States,199
+3399,United States,199
+3400,Italy,91
+3401,United States,199
+3402,United States,199
+3403,United States,199
+3404,United States,199
+3405,Sweden,181
+3406,United States,199
+3407,United States,199
+3408,United States,199
+3409,Poland,148
+3410,United Kingdom,198
+3411,Canada,34
+3412,Ukraine,196
+3413,United States,199
+3414,United States,199
+3415,Germany,69
+3416,Canada,34
+3417,United States,199
+3418,Italy,91
+3419,United States,199
+3420,Netherlands,133
+3421,United States,199
+3422,Azerbaijan,12
+3423,United States,199
+3424,United States,199
+3425,Portugal,149
+3426,Spain,176
+3427,United States,199
+3428,Italy,91
+3429,United States,199
+3430,United States,199
+3431,United States,199
+3432,Canada,34
+3433,Germany,69
+3434,Australia,10
+3435,United States,199
+3436,United Kingdom,198
+3437,Australia,10
+3438,Tunisia,191
+3439,United States,199
+3440,Spain,176
+3441,United States,199
+3442,United States,199
+3443,United States,199
+3444,Italy,91
+3445,United States,199
+3446,Germany,69
+3447,Germany,69
+3448,Belgium,18
+3449,United States,199
+3450,Poland,148
+3451,United States,199
+3452,France,63
+3453,United States,199
+3454,United States,199
+3455,Italy,91
+3456,Thailand,187
+3457,United States,199
+3458,Germany,69
+3459,United States,199
+3460,Portugal,149
+3461,Australia,10
+3462,United States,199
+3463,Germany,69
+3464,United States,199
+3465,United States,199
+3466,United States,199
+3467,United States,199
+3468,United States,199
+3469,Italy,91
+3470,United States,199
+3471,Italy,91
+3472,United States,199
+3473,Netherlands,133
+3474,Spain,176
+3475,United States,199
+3476,Mexico,121
+3477,United States,199
+3478,United States,199
+3479,Dominican Republic,51
+3480,Poland,148
+3481,United Kingdom,198
+3482,Belgium,18
+3483,Germany,69
+3484,South Korea,175
+3485,United States,199
+3486,Tunisia,191
+3487,United States,199
+3488,Sweden,181
+3489,United States,199
+3490,United States,199
+3491,Spain,176
+3492,Canada,34
+3493,Poland,148
+3494,United States,199
+3495,United States,199
+3496,Netherlands,133
+3497,United States,199
+3498,United States,199
+3499,Germany,69
+3500,United States,199
+3501,Switzerland,182
+3502,United States,199
+3503,United States,199
+3504,United States,199
+3505,France,63
+3506,United Kingdom,198
+3507,United States,199
+3508,United States,199
+3509,Canada,34
+3510,Italy,91
+3511,Belgium,18
+3512,United States,199
+3513,Poland,148
+3514,United States,199
+3515,United States,199
+3516,United States,199
+3517,Romania,153
+3518,Ukraine,196
+3519,United States,199
+3520,United States,199
+3521,Indonesia,85
+3522,Poland,148
+3523,United States,199
+3524,Russia,154
+3525,Norway,140
+3526,United States,199
+3527,Portugal,149
+3528,United States,199
+3529,Poland,148
+3530,Syria,183
+3531,Greece,72
+3532,Germany,69
+3533,Italy,91
+3534,Israel,90
+3535,United States,199
+3536,Puerto Rico,150
+3537,United States,199
+3538,United States,199
+3539,United States,199
+3540,Greece,72
+3541,United States,199
+3542,Philippines,147
+3543,Italy,91
+3544,Italy,91
+3545,Germany,69
+3546,Italy,91
+3547,India,84
+3548,South Africa,174
+3549,Germany,69
+3550,Italy,91
+3551,France,63
+3552,Belgium,18
+3553,Italy,91
+3554,Thailand,187
+3555,Germany,69
+3556,United States,199
+3557,Brazil,26
+3558,United States,199
+3559,United States,199
+3560,Ukraine,196
+3561,United States,199
+3562,Italy,91
+3563,United States,199
+3564,United Kingdom,198
+3565,Canada,34
+3566,Croatia,43
+3567,United States,199
+3568,Netherlands,133
+3569,United States,199
+3570,Poland,148
+3571,United States,199
+3572,Greece,72
+3573,United States,199
+3574,United States,199
+3575,Nicaragua,136
+3576,United States,199
+3577,Germany,69
+3578,United States,199
+3579,United States,199
+3580,Italy,91
+3581,United States,199
+3582,United States,199
+3583,Germany,69
+3584,United States,199
+3585,United States,199
+3586,Italy,91
+3587,Portugal,149
+3588,Greece,72
+3589,Brazil,26
+3590,Greece,72
+3591,Czech Republic,47
+3592,Netherlands,133
+3593,Portugal,149
+3594,Slovakia,170
+3595,United States,199
+3596,United States,199
+3597,United Kingdom,198
+3598,United States,199
+3599,United Kingdom,198
+3600,United States,199
+3601,New Zealand,135
+3602,Germany,69
+3603,Italy,91
+3604,United States,199
+3605,United States,199
+3606,Italy,91
+3607,Norway,140
+3608,Finland,62
+3609,Greece,72
+3610,Germany,69
+3611,Italy,91
+3612,Italy,91
+3613,United States,199
+3614,New Zealand,135
+3615,United States,199
+3616,Italy,91
+3617,United States,199
+3618,Spain,176
+3619,United States,199
+3620,United States,199
+3621,Finland,62
+3622,United States,199
+3623,Spain,176
+3624,Germany,69
+3625,United States,199
+3626,United States,199
+3627,Croatia,43
+3628,Greece,72
+3629,United States,199
+3630,United States,199
+3631,Germany,69
+3632,Ecuador,52
+3633,United States,199
+3634,Belarus,17
+3635,Slovakia,170
+3636,Norway,140
+3637,Germany,69
+3638,Italy,91
+3639,United States,199
+3640,United States,199
+3641,Canada,34
+3642,United States,199
+3643,Germany,69
+3644,United States,199
+3645,Cuba,44
+3646,Portugal,149
+3647,Israel,90
+3648,Spain,176
+3649,Portugal,149
+3650,Russia,154
+3651,Czech Republic,47
+3652,Japan,94
+3653,Italy,91
+3654,United States,199
+3655,Nepal,132
+3656,Spain,176
+3657,South Africa,174
+3658,United States,199
+3659,Germany,69
+3660,United States,199
+3661,United States,199
+3662,Spain,176
+3663,Bulgaria,29
+3664,Brazil,26
+3665,United States,199
+3666,Canada,34
+3667,United States,199
+3668,Netherlands,133
+3669,Philippines,147
+3670,United States,199
+3671,United States,199
+3672,United States,199
+3673,Italy,91
+3674,United States,199
+3675,Finland,62
+3676,Czech Republic,47
+3677,United States,199
+3678,Dominican Republic,51
+3679,Germany,69
+3680,Portugal,149
+3681,Netherlands,133
+3682,United Kingdom,198
+3683,United States,199
+3684,Italy,91
+3685,Bulgaria,29
+3686,Italy,91
+3687,Canada,34
+3688,Canada,34
+3689,Netherlands,133
+3690,Poland,148
+3691,United States,199
+3692,Austria,11
+3693,Romania,153
+3694,United States,199
+3695,United States,199
+3696,United States,199
+3697,Germany,69
+3698,United States,199
+3699,Germany,69
+3700,Italy,91
+3701,United States,199
+3702,United States,199
+3703,Zambia,206
+3704,Bosnia And Herzegovina,24
+3705,Germany,69
+3706,United States,199
+3707,United States,199
+3708,Slovakia,170
+3709,United States,199
+3710,Syria,183
+3711,Ukraine,196
+3712,Greece,72
+3713,Italy,91
+3714,Finland,62
+3715,Czech Republic,47
+3716,Canada,34
+3717,United States,199
+3718,Finland,62
+3719,Italy,91
+3720,United States,199
+3721,Belgium,18
+3722,Italy,91
+3723,United States,199
+3724,United States,199
+3725,United States,199
+3726,Denmark,48
+3727,United States,199
+3728,United States,199
+3729,Czech Republic,47
+3730,United States,199
+3731,Germany,69
+3732,Germany,69
+3733,United States,199
+3734,United States,199
+3735,Italy,91
+3736,Hungary,82
+3737,Canada,34
+3738,Spain,176
+3739,France,63
+3740,United States,199
+3741,Algeria,2
+3742,Germany,69
+3743,Russia,154
+3744,Belgium,18
+3745,United States,199
+3746,Netherlands,133
+3747,Canada,34
+3748,United States,199
+3749,United States,199
+3750,Czech Republic,47
+3751,United States,199
+3752,United States,199
+3753,United States,199
+3754,Italy,91
+3755,Honduras,80
+3756,United States,199
+3757,Israel,90
+3758,United States,199
+3759,Syria,183
+3760,United States,199
+3761,United States,199
+3762,United States,199
+3763,Brazil,26
+3764,United States,199
+3765,Belgium,18
+3766,Italy,91
+3767,United States,199
+3768,United States,199
+3769,Netherlands,133
+3770,Poland,148
+3771,Bosnia And Herzegovina,24
+3772,Czech Republic,47
+3773,United States,199
+3774,Belgium,18
+3775,Slovakia,170
+3776,Italy,91
+3777,Canada,34
+3778,Zimbabwe,207
+3779,United States,199
+3780,Canada,34
+3781,Canada,34
+3782,United States,199
+3783,Italy,91
+3784,Germany,69
+3785,Canada,34
+3786,Philippines,147
+3787,United States,199
+3788,Kazakhstan,97
+3789,United Kingdom,198
+3790,United States,199
+3791,Philippines,147
+3792,Israel,90
+3793,United States,199
+3794,United States,199
+3795,Italy,91
+3796,Brazil,26
+3797,Canada,34
+3798,Germany,69
+3799,United States,199
+3800,Italy,91
+3801,United States,199
+3802,Italy,91
+3803,United States,199
+3804,United States,199
+3805,United States,199
+3806,Portugal,149
+3807,France,63
+3808,United States,199
+3809,Finland,62
+3810,United States,199
+3811,United States,199
+3812,Belgium,18
+3813,Romania,153
+3814,United States,199
+3815,Belgium,18
+3816,United States,199
+3817,New Zealand,135
+3818,Slovakia,170
+3819,Sweden,181
+3820,Netherlands,133
+3821,United States,199
+3822,Italy,91
+3823,United States,199
+3824,United States,199
+3825,United States,199
+3826,Austria,11
+3827,Spain,176
+3828,Italy,91
+3829,Switzerland,182
+3830,United Kingdom,198
+3831,Romania,153
+3832,Sweden,181
+3833,United States,199
+3834,Australia,10
+3835,United States,199
+3836,Puerto Rico,150
+3837,United States,199
+3838,United States,199
+3839,Honduras,80
+3840,United States,199
+3841,United States,199
+3842,United States,199
+3843,Portugal,149
+3844,Germany,69
+3845,Belgium,18
+3846,Finland,62
+3847,Slovakia,170
+3848,United Kingdom,198
+3849,Greece,72
+3850,Turkmenistan,193
+3851,Spain,176
+3852,United States,199
+3853,Morocco,127
+3854,Netherlands,133
+3855,Norway,140
+3856,Brazil,26
+3857,United States,199
+3858,Russia,154
+3859,Sweden,181
+3860,United States,199
+3861,Australia,10
+3862,Italy,91
+3863,United States,199
+3864,United States,199
+3865,Brazil,26
+3866,Romania,153
+3867,Syria,183
+3868,Norway,140
+3869,Italy,91
+3870,Italy,91
+3871,Canada,34
+3872,United States,199
+3873,Italy,91
+3874,India,84
+3875,Italy,91
+3876,United States,199
+3877,Italy,91
+3878,United States,199
+3879,United States,199
+3880,Canada,34
+3881,Czech Republic,47
+3882,Switzerland,182
+3883,Thailand,187
+3884,Portugal,149
+3885,France,63
+3886,Italy,91
+3887,Italy,91
+3888,Czech Republic,47
+3889,Belgium,18
+3890,Canada,34
+3891,United States,199
+3892,United States,199
+3893,United States,199
+3894,Brazil,26
+3895,Belgium,18
+3896,United States,199
+3897,United States,199
+3898,Bulgaria,29
+3899,Germany,69
+3900,Germany,69
+3901,Bosnia And Herzegovina,24
+3902,Iceland,83
+3903,United States,199
+3904,United States,199
+3905,Czech Republic,47
+3906,United States,199
+3907,United States,199
+3908,Canada,34
+3909,United States,199
+3910,United States,199
+3911,Canada,34
+3912,United States,199
+3913,United States,199
+3914,United States,199
+3915,Belgium,18
+3916,United States,199
+3917,Canada,34
+3918,United States,199
+3919,Australia,10
+3920,United States,199
+3921,Germany,69
+3922,United States,199
+3923,Czech Republic,47
+3924,United States,199
+3925,Estonia,57
+3926,United States,199
+3927,Poland,148
+3928,United States,199
+3929,Spain,176
+3930,Slovakia,170
+3931,Slovakia,170
+3932,United States,199
+3933,United States,199
+3934,Chile,37
+3935,Zimbabwe,207
+3936,Poland,148
+3937,United States,199
+3938,Greece,72
+3939,United States,199
+3940,Slovakia,170
+3941,United Kingdom,198
+3942,United States,199
+3943,Hungary,82
+3944,United States,199
+3945,United States,199
+3946,United States,199
+3947,United States,199
+3948,United States,199
+3949,Bosnia And Herzegovina,24
+3950,Belgium,18
+3951,Belgium,18
+3952,United States,199
+3953,Australia,10
+3954,Sweden,181
+3955,Canada,34
+3956,United States,199
+3957,United States,199
+3958,Italy,91
+3959,Albania,1
+3960,Portugal,149
+3961,Canada,34
+3962,United States,199
+3963,Philippines,147
+3964,Australia,10
+3965,United States,199
+3966,United States,199
+3967,Canada,34
+3968,Italy,91
+3969,Canada,34
+3970,United States,199
+3971,France,63
+3972,Belgium,18
+3973,United States,199
+3974,United States,199
+3975,Hungary,82
+3976,United States,199
+3977,Italy,91
+3978,United States,199
+3979,Belgium,18
+3980,Denmark,48
+3981,United States,199
+3982,Spain,176
+3983,France,63
+3984,United States,199
+3985,Czech Republic,47
+3986,Hungary,82
+3987,Sweden,181
+3988,United States,199
+3989,Poland,148
+3990,United States,199
+3991,United States,199
+3992,Iceland,83
+3993,United States,199
+3994,Belgium,18
+3995,United States,199
+3996,Italy,91
+3997,India,84
+3998,Hungary,82
+3999,Moldova,122
+4000,Slovakia,170
+4001,Norway,140
+4002,Canada,34
+4003,United States,199
+4004,South Africa,174
+4005,Bolivia,23
+4006,Hungary,82
+4007,Hungary,82
+4008,United States,199
+4009,Bosnia And Herzegovina,24
+4010,Portugal,149
+4011,United Kingdom,198
+4012,United States,199
+4013,Greece,72
+4014,Switzerland,182
+4015,Russia,154
+4016,Argentina,7
+4017,United States,199
+4018,Netherlands,133
+4019,Russia,154
+4020,United States,199
+4021,Italy,91
+4022,Norway,140
+4023,United States,199
+4024,United States,199
+4025,France,63
+4026,United States,199
+4027,Italy,91
+4028,United States,199
+4029,Brazil,26
+4030,Bulgaria,29
+4031,Australia,10
+4032,United States,199
+4033,United States,199
+4034,Germany,69
+4035,United States,199
+4036,United States,199
+4037,Australia,10
+4038,Slovakia,170
+4039,United States,199
+4040,United States,199
+4041,South Africa,174
+4042,United States,199
+4043,United States,199
+4044,Syria,183
+4045,United States,199
+4046,Italy,91
+4047,United States,199
+4048,United States,199
+4049,United States,199
+4050,Switzerland,182
+4051,Germany,69
+4052,United States,199
+4053,United States,199
+4054,United States,199
+4055,Spain,176
+4056,Czech Republic,47
+4057,United States,199
+4058,Libya,107
+4059,United States,199
+4060,Turkey,192
+4061,Spain,176
+4062,United States,199
+4063,United States,199
+4064,Turkey,192
+4065,France,63
+4066,United States,199
+4067,Hungary,82
+4068,Canada,34
+4069,United States,199
+4070,United States,199
+4071,Georgia,68
+4072,United States,199
+4073,United States,199
+4074,United States,199
+4075,Denmark,48
+4076,Canada,34
+4077,Austria,11
+4078,United States,199
+4079,United States,199
+4080,Slovakia,170
