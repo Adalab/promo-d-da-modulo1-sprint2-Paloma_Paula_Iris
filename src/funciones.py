@@ -7,6 +7,11 @@ from sklearn.tree import DecisionTreeRegressor
 from sklearn import tree
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 from sklearn.model_selection import GridSearchCV
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import confusion_matrix
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score , cohen_kappa_score, roc_curve,roc_auc_score
 #=========================
 
 
@@ -79,6 +84,18 @@ def detectar_outliers(lista_columnas, dataframe):
     
     return dicc_indices 
 
+# FUNCIÓN RELACIÓN VARIABLES SIMILARES
+#===========================
+
+def similar_variables(lista_variables, df,plot = True):
+    for columna in lista_variables:
+        print(' Los valores únicos para la variable',columna, 'son:', list( df[columna].unique()))
+        value_counts = df[columna].value_counts()
+        if plot == True:
+            plt.figure()
+            value_counts.plot.pie(figsize=(8,8))
+        else:
+            pass
 
 # FUNCIONES TEST-ESTADÍSTICOS:
 #===========================
@@ -100,7 +117,7 @@ def normalidad(dataframe):
     return dist_variables
 
 
-# FUNCIONES METRICAS ML
+# FUNCIONES METRICAS ML RLINEAL
 #===========================
 def metricas(y_test, y_train, y_test_pred, y_train_pred, tipo_modelo):
     
@@ -111,4 +128,34 @@ def metricas(y_test, y_train, y_test_pred, y_train_pred, tipo_modelo):
                  "set": ["test", "train"]}
     df = pd.DataFrame(resultados)
     df["modelo"] = tipo_modelo
+    return df
+
+# FUNCIONES METRICAS ML RLOGISTICA
+#===========================
+
+def metricas(clases_reales_test, clases_predichas_test, clases_reales_train, clases_predichas_train, modelo):
+    
+    # para el test
+    accuracy_test = accuracy_score(clases_reales_test, clases_predichas_test)
+    precision_test = precision_score(clases_reales_test, clases_predichas_test)
+    recall_test = recall_score(clases_reales_test, clases_predichas_test)
+    f1_test = f1_score(clases_reales_test, clases_predichas_test)
+    kappa_test = cohen_kappa_score(clases_reales_test, clases_predichas_test)
+
+    # para el train
+    accuracy_train = accuracy_score(clases_reales_train, clases_predichas_train)
+    precision_train = precision_score(clases_reales_train, clases_predichas_train)
+    recall_train = recall_score(clases_reales_train, clases_predichas_train)
+    f1_train = f1_score(clases_reales_train, clases_predichas_train)
+    kappa_train = cohen_kappa_score(clases_reales_train, clases_predichas_train)
+    
+    
+    df = pd.DataFrame({"accuracy": [accuracy_test, accuracy_train], 
+                       "precision": [precision_test, precision_train],
+                       "recall": [recall_test, recall_train], 
+                       "f1": [f1_test, f1_train],
+                       "kapppa": [kappa_test, kappa_train],
+                       "set": ["test", "train"]})
+    
+    df["modelo"] = modelo
     return df
