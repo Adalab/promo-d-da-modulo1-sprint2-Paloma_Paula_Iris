@@ -119,7 +119,7 @@ def normalidad(dataframe):
 
 # FUNCIONES METRICAS ML RLINEAL
 #===========================
-def metricas(y_test, y_train, y_test_pred, y_train_pred, tipo_modelo):
+def metricaslin(y_test, y_train, y_test_pred, y_train_pred, tipo_modelo):
     
     resultados = {'MAE': [mean_absolute_error(y_test, y_test_pred), mean_absolute_error(y_train, y_train_pred)],
                 'MSE': [mean_squared_error(y_test, y_test_pred), mean_squared_error(y_train, y_train_pred)],
@@ -133,7 +133,7 @@ def metricas(y_test, y_train, y_test_pred, y_train_pred, tipo_modelo):
 # FUNCIONES METRICAS ML RLOGISTICA
 #===========================
 
-def metricas(clases_reales_test, clases_predichas_test, clases_reales_train, clases_predichas_train, modelo):
+def metricaslog(clases_reales_test, clases_predichas_test, clases_reales_train, clases_predichas_train, modelo):
     
     # para el test
     accuracy_test = accuracy_score(clases_reales_test, clases_predichas_test)
