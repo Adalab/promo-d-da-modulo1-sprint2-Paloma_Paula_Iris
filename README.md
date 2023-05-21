@@ -57,10 +57,10 @@ b. Decision Tree
 c. Random Forest
 
 NEXT STEPS:
--mejorar los hiperparámetros del Random Forest, porque es el que mejores métricas ha obtenido
--probar diferentes combinaciones de encoding
--distinto tratamiento de outliers
--plantear otras variables predictoras o enfocar el proyecto con otra variable respuesta
+- Mejorar los hiperparámetros del Random Forest, porque es el que mejores métricas ha obtenido
+- Probar diferentes combinaciones de encoding
+- Distinto tratamiento de outliers
+- Plantear otras variables predictoras o enfocar el proyecto con otra variable respuesta
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 2. Regresión Logística:
