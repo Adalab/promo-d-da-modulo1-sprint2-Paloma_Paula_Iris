@@ -22,14 +22,15 @@ Para la realización de estos modelos de machine learning se han utilizado varia
 
 En este repositorio se encuentran dos carpetas principales con sus respectivos archivos; una para el modelo de regresión lineal y otra para el de regresión logística y una tercera para incluir los archivos de python con funciones urilizadas:
 
-1.regresion_lineal: carpeta para el desarrollo de un modelo predictivo con regresión lineal.
-- archivos: documento csv con el archivo a predecir más los archivos generados posteriormente en formato pickle para proseguir con el modelo.
-- graficas: algunas imágenes .png para ilustrar el poceso de EDA.
-- r_lineal: cuadernos .jpynb para la realización y comentario del modelo predictivo.
-2.regresion_logistica: carpeta para el desarrollo de un modelo predictivo con regresión logística.
-- archivos: documento csv con el archivo a predecir más los archivos generados posteriormente en formato pickle para proseguir con el modelo.
-- graficas: algunas imágenes .png para ilustrar el poceso de EDA.
-- rlogistica: cuadernos .jpynb para la realización y comentario del modelo predictivo.
+1. Regresion_lineal: carpeta para el desarrollo de un modelo predictivo con regresión lineal.
+    - archivos: documento csv con el archivo a predecir más los archivos generados posteriormente en formato pickle para proseguir con el modelo.
+    - graficas: algunas imágenes .png para ilustrar el poceso de EDA.
+    - r_lineal: cuadernos .jpynb para la realización y comentario del modelo predictivo.
+
+2. Regresion_logistica: carpeta para el desarrollo de un modelo predictivo con regresión logística.
+    - archivos: documento csv con el archivo a predecir más los archivos generados posteriormente en formato pickle para proseguir con el modelo.
+    - graficas: algunas imágenes .png para ilustrar el poceso de EDA.
+    - rlogistica: cuadernos .jpynb para la realización y comentario del modelo predictivo.
 
 ### Modelos de Machine Learning:
 1. Regresión Lineal:
